@@ -1,0 +1,2051 @@
+{
+    "context": {
+        "status": "incomplete",
+        "sessionId": "Cl0IARJZCk4KJDNmOGQ3MDNkLWMyNGEtNDJhNC05NTYzLTRhZDE2Mjk5MGU4YhACGiRmNjkxNTA5Zi02Y2IzLTRjNTUtOWVkYi03MjRjOTYwODlkZTUQv-mK-8wyGAESKHVzc19lMGM0N2IzYi04ZjczLTRlODYtODM4NC03ZjgxMzNkODY1ZGYiAlVT",
+        "totalResults": 10
+    },
+    "itineraries": [
+        {
+            "id": "13993-2502041255--32733-0-16920-2502041458|16920-2502261246--32733-0-13993-2502261810",
+            "price": {
+                "raw": 906.48,
+                "formatted": "$907",
+                "pricingOptionId": "W8KZkLJ6ADzo"
+            },
+            "legs": [
+                {
+                    "id": "13993-2502041255--32733-0-16920-2502041458",
+                    "origin": {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International",
+                        "displayCode": "MEX",
+                        "city": "Mexico City",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "destination": {
+                        "id": "TIJ",
+                        "entityId": "95673471",
+                        "name": "Tijuana",
+                        "displayCode": "TIJ",
+                        "city": "Tijuana",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "durationInMinutes": 243,
+                    "stopCount": 0,
+                    "isSmallestStops": false,
+                    "departure": "2025-02-04T12:55:00",
+                    "arrival": "2025-02-04T14:58:00",
+                    "timeDeltaInDays": 0,
+                    "carriers": {
+                        "marketing": [
+                            {
+                                "id": -32733,
+                                "alternateId": "AM",
+                                "logoUrl": "https:\/\/logos.skyscnr.com\/images\/airlines\/favicon\/AM.png",
+                                "name": "Aeromexico"
+                            }
+                        ],
+                        "operationType": "fully_operated"
+                    },
+                    "segments": [
+                        {
+                            "id": "13993-16920-2502041255-2502041458--32733",
+                            "origin": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "destination": {
+                                "flightPlaceId": "TIJ",
+                                "displayCode": "TIJ",
+                                "parent": {
+                                    "flightPlaceId": "TIJA",
+                                    "displayCode": "TIJ",
+                                    "name": "Tijuana",
+                                    "type": "City"
+                                },
+                                "name": "Tijuana",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "departure": "2025-02-04T12:55:00",
+                            "arrival": "2025-02-04T14:58:00",
+                            "durationInMinutes": 243,
+                            "flightNumber": "174",
+                            "marketingCarrier": {
+                                "id": -32733,
+                                "name": "Aeromexico",
+                                "alternateId": "AM",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -32733,
+                                "name": "Aeromexico",
+                                "alternateId": "AM",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "16920-2502261246--32733-0-13993-2502261810",
+                    "origin": {
+                        "id": "TIJ",
+                        "entityId": "95673471",
+                        "name": "Tijuana",
+                        "displayCode": "TIJ",
+                        "city": "Tijuana",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "destination": {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International",
+                        "displayCode": "MEX",
+                        "city": "Mexico City",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "durationInMinutes": 204,
+                    "stopCount": 0,
+                    "isSmallestStops": false,
+                    "departure": "2025-02-26T12:46:00",
+                    "arrival": "2025-02-26T18:10:00",
+                    "timeDeltaInDays": 0,
+                    "carriers": {
+                        "marketing": [
+                            {
+                                "id": -32733,
+                                "alternateId": "AM",
+                                "logoUrl": "https:\/\/logos.skyscnr.com\/images\/airlines\/favicon\/AM.png",
+                                "name": "Aeromexico"
+                            }
+                        ],
+                        "operationType": "fully_operated"
+                    },
+                    "segments": [
+                        {
+                            "id": "16920-13993-2502261246-2502261810--32733",
+                            "origin": {
+                                "flightPlaceId": "TIJ",
+                                "displayCode": "TIJ",
+                                "parent": {
+                                    "flightPlaceId": "TIJA",
+                                    "displayCode": "TIJ",
+                                    "name": "Tijuana",
+                                    "type": "City"
+                                },
+                                "name": "Tijuana",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "destination": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "departure": "2025-02-26T12:46:00",
+                            "arrival": "2025-02-26T18:10:00",
+                            "durationInMinutes": 204,
+                            "flightNumber": "179",
+                            "marketingCarrier": {
+                                "id": -32733,
+                                "name": "Aeromexico",
+                                "alternateId": "AM",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -32733,
+                                "name": "Aeromexico",
+                                "alternateId": "AM",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
+                }
+            ],
+            "isSelfTransfer": false,
+            "isProtectedSelfTransfer": false,
+            "farePolicy": {
+                "isChangeAllowed": false,
+                "isPartiallyChangeable": false,
+                "isCancellationAllowed": false,
+                "isPartiallyRefundable": false
+            },
+            "fareAttributes": [],
+            "tags": [
+                "cheapest",
+                "shortest"
+            ],
+            "isMashUp": false,
+            "hasFlexibleOptions": false,
+            "score": 0.999
+        },
+        {
+            "id": "13993-2502041030--32733-0-16920-2502041233|16920-2502261246--32733-0-13993-2502261810",
+            "price": {
+                "raw": 919.02,
+                "formatted": "$920",
+                "pricingOptionId": "N64w7slhqxl0"
+            },
+            "legs": [
+                {
+                    "id": "13993-2502041030--32733-0-16920-2502041233",
+                    "origin": {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International",
+                        "displayCode": "MEX",
+                        "city": "Mexico City",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "destination": {
+                        "id": "TIJ",
+                        "entityId": "95673471",
+                        "name": "Tijuana",
+                        "displayCode": "TIJ",
+                        "city": "Tijuana",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "durationInMinutes": 243,
+                    "stopCount": 0,
+                    "isSmallestStops": false,
+                    "departure": "2025-02-04T10:30:00",
+                    "arrival": "2025-02-04T12:33:00",
+                    "timeDeltaInDays": 0,
+                    "carriers": {
+                        "marketing": [
+                            {
+                                "id": -32733,
+                                "alternateId": "AM",
+                                "logoUrl": "https:\/\/logos.skyscnr.com\/images\/airlines\/favicon\/AM.png",
+                                "name": "Aeromexico"
+                            }
+                        ],
+                        "operationType": "fully_operated"
+                    },
+                    "segments": [
+                        {
+                            "id": "13993-16920-2502041030-2502041233--32733",
+                            "origin": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "destination": {
+                                "flightPlaceId": "TIJ",
+                                "displayCode": "TIJ",
+                                "parent": {
+                                    "flightPlaceId": "TIJA",
+                                    "displayCode": "TIJ",
+                                    "name": "Tijuana",
+                                    "type": "City"
+                                },
+                                "name": "Tijuana",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "departure": "2025-02-04T10:30:00",
+                            "arrival": "2025-02-04T12:33:00",
+                            "durationInMinutes": 243,
+                            "flightNumber": "172",
+                            "marketingCarrier": {
+                                "id": -32733,
+                                "name": "Aeromexico",
+                                "alternateId": "AM",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -32733,
+                                "name": "Aeromexico",
+                                "alternateId": "AM",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "16920-2502261246--32733-0-13993-2502261810",
+                    "origin": {
+                        "id": "TIJ",
+                        "entityId": "95673471",
+                        "name": "Tijuana",
+                        "displayCode": "TIJ",
+                        "city": "Tijuana",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "destination": {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International",
+                        "displayCode": "MEX",
+                        "city": "Mexico City",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "durationInMinutes": 204,
+                    "stopCount": 0,
+                    "isSmallestStops": false,
+                    "departure": "2025-02-26T12:46:00",
+                    "arrival": "2025-02-26T18:10:00",
+                    "timeDeltaInDays": 0,
+                    "carriers": {
+                        "marketing": [
+                            {
+                                "id": -32733,
+                                "alternateId": "AM",
+                                "logoUrl": "https:\/\/logos.skyscnr.com\/images\/airlines\/favicon\/AM.png",
+                                "name": "Aeromexico"
+                            }
+                        ],
+                        "operationType": "fully_operated"
+                    },
+                    "segments": [
+                        {
+                            "id": "16920-13993-2502261246-2502261810--32733",
+                            "origin": {
+                                "flightPlaceId": "TIJ",
+                                "displayCode": "TIJ",
+                                "parent": {
+                                    "flightPlaceId": "TIJA",
+                                    "displayCode": "TIJ",
+                                    "name": "Tijuana",
+                                    "type": "City"
+                                },
+                                "name": "Tijuana",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "destination": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "departure": "2025-02-26T12:46:00",
+                            "arrival": "2025-02-26T18:10:00",
+                            "durationInMinutes": 204,
+                            "flightNumber": "179",
+                            "marketingCarrier": {
+                                "id": -32733,
+                                "name": "Aeromexico",
+                                "alternateId": "AM",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -32733,
+                                "name": "Aeromexico",
+                                "alternateId": "AM",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
+                }
+            ],
+            "isSelfTransfer": false,
+            "isProtectedSelfTransfer": false,
+            "farePolicy": {
+                "isChangeAllowed": false,
+                "isPartiallyChangeable": false,
+                "isCancellationAllowed": false,
+                "isPartiallyRefundable": false
+            },
+            "fareAttributes": [],
+            "tags": [
+                "second_cheapest",
+                "second_shortest"
+            ],
+            "isMashUp": false,
+            "hasFlexibleOptions": false,
+            "score": 0.931387
+        },
+        {
+            "id": "13993-2502041435--32733-0-16920-2502041638|16920-2502261246--32733-0-13993-2502261810",
+            "price": {
+                "raw": 906.48,
+                "formatted": "$907",
+                "pricingOptionId": "Q0Y6CirJdli_"
+            },
+            "legs": [
+                {
+                    "id": "13993-2502041435--32733-0-16920-2502041638",
+                    "origin": {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International",
+                        "displayCode": "MEX",
+                        "city": "Mexico City",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "destination": {
+                        "id": "TIJ",
+                        "entityId": "95673471",
+                        "name": "Tijuana",
+                        "displayCode": "TIJ",
+                        "city": "Tijuana",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "durationInMinutes": 243,
+                    "stopCount": 0,
+                    "isSmallestStops": false,
+                    "departure": "2025-02-04T14:35:00",
+                    "arrival": "2025-02-04T16:38:00",
+                    "timeDeltaInDays": 0,
+                    "carriers": {
+                        "marketing": [
+                            {
+                                "id": -32733,
+                                "alternateId": "AM",
+                                "logoUrl": "https:\/\/logos.skyscnr.com\/images\/airlines\/favicon\/AM.png",
+                                "name": "Aeromexico"
+                            }
+                        ],
+                        "operationType": "fully_operated"
+                    },
+                    "segments": [
+                        {
+                            "id": "13993-16920-2502041435-2502041638--32733",
+                            "origin": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "destination": {
+                                "flightPlaceId": "TIJ",
+                                "displayCode": "TIJ",
+                                "parent": {
+                                    "flightPlaceId": "TIJA",
+                                    "displayCode": "TIJ",
+                                    "name": "Tijuana",
+                                    "type": "City"
+                                },
+                                "name": "Tijuana",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "departure": "2025-02-04T14:35:00",
+                            "arrival": "2025-02-04T16:38:00",
+                            "durationInMinutes": 243,
+                            "flightNumber": "176",
+                            "marketingCarrier": {
+                                "id": -32733,
+                                "name": "Aeromexico",
+                                "alternateId": "AM",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -32733,
+                                "name": "Aeromexico",
+                                "alternateId": "AM",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "16920-2502261246--32733-0-13993-2502261810",
+                    "origin": {
+                        "id": "TIJ",
+                        "entityId": "95673471",
+                        "name": "Tijuana",
+                        "displayCode": "TIJ",
+                        "city": "Tijuana",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "destination": {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International",
+                        "displayCode": "MEX",
+                        "city": "Mexico City",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "durationInMinutes": 204,
+                    "stopCount": 0,
+                    "isSmallestStops": false,
+                    "departure": "2025-02-26T12:46:00",
+                    "arrival": "2025-02-26T18:10:00",
+                    "timeDeltaInDays": 0,
+                    "carriers": {
+                        "marketing": [
+                            {
+                                "id": -32733,
+                                "alternateId": "AM",
+                                "logoUrl": "https:\/\/logos.skyscnr.com\/images\/airlines\/favicon\/AM.png",
+                                "name": "Aeromexico"
+                            }
+                        ],
+                        "operationType": "fully_operated"
+                    },
+                    "segments": [
+                        {
+                            "id": "16920-13993-2502261246-2502261810--32733",
+                            "origin": {
+                                "flightPlaceId": "TIJ",
+                                "displayCode": "TIJ",
+                                "parent": {
+                                    "flightPlaceId": "TIJA",
+                                    "displayCode": "TIJ",
+                                    "name": "Tijuana",
+                                    "type": "City"
+                                },
+                                "name": "Tijuana",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "destination": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "departure": "2025-02-26T12:46:00",
+                            "arrival": "2025-02-26T18:10:00",
+                            "durationInMinutes": 204,
+                            "flightNumber": "179",
+                            "marketingCarrier": {
+                                "id": -32733,
+                                "name": "Aeromexico",
+                                "alternateId": "AM",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -32733,
+                                "name": "Aeromexico",
+                                "alternateId": "AM",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
+                }
+            ],
+            "isSelfTransfer": false,
+            "isProtectedSelfTransfer": false,
+            "farePolicy": {
+                "isChangeAllowed": false,
+                "isPartiallyChangeable": false,
+                "isCancellationAllowed": false,
+                "isPartiallyRefundable": false
+            },
+            "fareAttributes": [],
+            "tags": [
+                "cheapest",
+                "shortest"
+            ],
+            "isMashUp": false,
+            "hasFlexibleOptions": false,
+            "score": 0.851694
+        },
+        {
+            "id": "13993-2502041030--32733-0-16920-2502041233|16920-2502261736--32733-0-13993-2502262300",
+            "price": {
+                "raw": 931.36,
+                "formatted": "$932",
+                "pricingOptionId": "z70EXoJoAngV"
+            },
+            "legs": [
+                {
+                    "id": "13993-2502041030--32733-0-16920-2502041233",
+                    "origin": {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International",
+                        "displayCode": "MEX",
+                        "city": "Mexico City",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "destination": {
+                        "id": "TIJ",
+                        "entityId": "95673471",
+                        "name": "Tijuana",
+                        "displayCode": "TIJ",
+                        "city": "Tijuana",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "durationInMinutes": 243,
+                    "stopCount": 0,
+                    "isSmallestStops": false,
+                    "departure": "2025-02-04T10:30:00",
+                    "arrival": "2025-02-04T12:33:00",
+                    "timeDeltaInDays": 0,
+                    "carriers": {
+                        "marketing": [
+                            {
+                                "id": -32733,
+                                "alternateId": "AM",
+                                "logoUrl": "https:\/\/logos.skyscnr.com\/images\/airlines\/favicon\/AM.png",
+                                "name": "Aeromexico"
+                            }
+                        ],
+                        "operationType": "fully_operated"
+                    },
+                    "segments": [
+                        {
+                            "id": "13993-16920-2502041030-2502041233--32733",
+                            "origin": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "destination": {
+                                "flightPlaceId": "TIJ",
+                                "displayCode": "TIJ",
+                                "parent": {
+                                    "flightPlaceId": "TIJA",
+                                    "displayCode": "TIJ",
+                                    "name": "Tijuana",
+                                    "type": "City"
+                                },
+                                "name": "Tijuana",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "departure": "2025-02-04T10:30:00",
+                            "arrival": "2025-02-04T12:33:00",
+                            "durationInMinutes": 243,
+                            "flightNumber": "172",
+                            "marketingCarrier": {
+                                "id": -32733,
+                                "name": "Aeromexico",
+                                "alternateId": "AM",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -32733,
+                                "name": "Aeromexico",
+                                "alternateId": "AM",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "16920-2502261736--32733-0-13993-2502262300",
+                    "origin": {
+                        "id": "TIJ",
+                        "entityId": "95673471",
+                        "name": "Tijuana",
+                        "displayCode": "TIJ",
+                        "city": "Tijuana",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "destination": {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International",
+                        "displayCode": "MEX",
+                        "city": "Mexico City",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "durationInMinutes": 204,
+                    "stopCount": 0,
+                    "isSmallestStops": false,
+                    "departure": "2025-02-26T17:36:00",
+                    "arrival": "2025-02-26T23:00:00",
+                    "timeDeltaInDays": 0,
+                    "carriers": {
+                        "marketing": [
+                            {
+                                "id": -32733,
+                                "alternateId": "AM",
+                                "logoUrl": "https:\/\/logos.skyscnr.com\/images\/airlines\/favicon\/AM.png",
+                                "name": "Aeromexico"
+                            }
+                        ],
+                        "operationType": "fully_operated"
+                    },
+                    "segments": [
+                        {
+                            "id": "16920-13993-2502261736-2502262300--32733",
+                            "origin": {
+                                "flightPlaceId": "TIJ",
+                                "displayCode": "TIJ",
+                                "parent": {
+                                    "flightPlaceId": "TIJA",
+                                    "displayCode": "TIJ",
+                                    "name": "Tijuana",
+                                    "type": "City"
+                                },
+                                "name": "Tijuana",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "destination": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "departure": "2025-02-26T17:36:00",
+                            "arrival": "2025-02-26T23:00:00",
+                            "durationInMinutes": 204,
+                            "flightNumber": "187",
+                            "marketingCarrier": {
+                                "id": -32733,
+                                "name": "Aeromexico",
+                                "alternateId": "AM",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -32733,
+                                "name": "Aeromexico",
+                                "alternateId": "AM",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
+                }
+            ],
+            "isSelfTransfer": false,
+            "isProtectedSelfTransfer": false,
+            "farePolicy": {
+                "isChangeAllowed": false,
+                "isPartiallyChangeable": false,
+                "isCancellationAllowed": false,
+                "isPartiallyRefundable": false
+            },
+            "fareAttributes": [],
+            "tags": [
+                "third_cheapest",
+                "third_shortest"
+            ],
+            "isMashUp": false,
+            "hasFlexibleOptions": false,
+            "score": 0.788812
+        },
+        {
+            "id": "13993-2502041030--32733-0-16920-2502041233|16920-2502261835--32733-0-13993-2502262359",
+            "price": {
+                "raw": 919.02,
+                "formatted": "$920",
+                "pricingOptionId": "qo3W6cfIIhIv"
+            },
+            "legs": [
+                {
+                    "id": "13993-2502041030--32733-0-16920-2502041233",
+                    "origin": {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International",
+                        "displayCode": "MEX",
+                        "city": "Mexico City",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "destination": {
+                        "id": "TIJ",
+                        "entityId": "95673471",
+                        "name": "Tijuana",
+                        "displayCode": "TIJ",
+                        "city": "Tijuana",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "durationInMinutes": 243,
+                    "stopCount": 0,
+                    "isSmallestStops": false,
+                    "departure": "2025-02-04T10:30:00",
+                    "arrival": "2025-02-04T12:33:00",
+                    "timeDeltaInDays": 0,
+                    "carriers": {
+                        "marketing": [
+                            {
+                                "id": -32733,
+                                "alternateId": "AM",
+                                "logoUrl": "https:\/\/logos.skyscnr.com\/images\/airlines\/favicon\/AM.png",
+                                "name": "Aeromexico"
+                            }
+                        ],
+                        "operationType": "fully_operated"
+                    },
+                    "segments": [
+                        {
+                            "id": "13993-16920-2502041030-2502041233--32733",
+                            "origin": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "destination": {
+                                "flightPlaceId": "TIJ",
+                                "displayCode": "TIJ",
+                                "parent": {
+                                    "flightPlaceId": "TIJA",
+                                    "displayCode": "TIJ",
+                                    "name": "Tijuana",
+                                    "type": "City"
+                                },
+                                "name": "Tijuana",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "departure": "2025-02-04T10:30:00",
+                            "arrival": "2025-02-04T12:33:00",
+                            "durationInMinutes": 243,
+                            "flightNumber": "172",
+                            "marketingCarrier": {
+                                "id": -32733,
+                                "name": "Aeromexico",
+                                "alternateId": "AM",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -32733,
+                                "name": "Aeromexico",
+                                "alternateId": "AM",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "16920-2502261835--32733-0-13993-2502262359",
+                    "origin": {
+                        "id": "TIJ",
+                        "entityId": "95673471",
+                        "name": "Tijuana",
+                        "displayCode": "TIJ",
+                        "city": "Tijuana",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "destination": {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International",
+                        "displayCode": "MEX",
+                        "city": "Mexico City",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "durationInMinutes": 204,
+                    "stopCount": 0,
+                    "isSmallestStops": false,
+                    "departure": "2025-02-26T18:35:00",
+                    "arrival": "2025-02-26T23:59:00",
+                    "timeDeltaInDays": 0,
+                    "carriers": {
+                        "marketing": [
+                            {
+                                "id": -32733,
+                                "alternateId": "AM",
+                                "logoUrl": "https:\/\/logos.skyscnr.com\/images\/airlines\/favicon\/AM.png",
+                                "name": "Aeromexico"
+                            }
+                        ],
+                        "operationType": "fully_operated"
+                    },
+                    "segments": [
+                        {
+                            "id": "16920-13993-2502261835-2502262359--32733",
+                            "origin": {
+                                "flightPlaceId": "TIJ",
+                                "displayCode": "TIJ",
+                                "parent": {
+                                    "flightPlaceId": "TIJA",
+                                    "displayCode": "TIJ",
+                                    "name": "Tijuana",
+                                    "type": "City"
+                                },
+                                "name": "Tijuana",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "destination": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "departure": "2025-02-26T18:35:00",
+                            "arrival": "2025-02-26T23:59:00",
+                            "durationInMinutes": 204,
+                            "flightNumber": "189",
+                            "marketingCarrier": {
+                                "id": -32733,
+                                "name": "Aeromexico",
+                                "alternateId": "AM",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -32733,
+                                "name": "Aeromexico",
+                                "alternateId": "AM",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
+                }
+            ],
+            "isSelfTransfer": false,
+            "isProtectedSelfTransfer": false,
+            "farePolicy": {
+                "isChangeAllowed": false,
+                "isPartiallyChangeable": false,
+                "isCancellationAllowed": false,
+                "isPartiallyRefundable": false
+            },
+            "fareAttributes": [],
+            "tags": [
+                "second_cheapest",
+                "second_shortest"
+            ],
+            "isMashUp": false,
+            "hasFlexibleOptions": false,
+            "score": 0.7873
+        },
+        {
+            "id": "13993-2502041255--32733-0-16920-2502041458|16920-2502261106--32733-0-13993-2502261630",
+            "price": {
+                "raw": 919.02,
+                "formatted": "$920",
+                "pricingOptionId": "LxK0feSDZqX_"
+            },
+            "legs": [
+                {
+                    "id": "13993-2502041255--32733-0-16920-2502041458",
+                    "origin": {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International",
+                        "displayCode": "MEX",
+                        "city": "Mexico City",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "destination": {
+                        "id": "TIJ",
+                        "entityId": "95673471",
+                        "name": "Tijuana",
+                        "displayCode": "TIJ",
+                        "city": "Tijuana",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "durationInMinutes": 243,
+                    "stopCount": 0,
+                    "isSmallestStops": false,
+                    "departure": "2025-02-04T12:55:00",
+                    "arrival": "2025-02-04T14:58:00",
+                    "timeDeltaInDays": 0,
+                    "carriers": {
+                        "marketing": [
+                            {
+                                "id": -32733,
+                                "alternateId": "AM",
+                                "logoUrl": "https:\/\/logos.skyscnr.com\/images\/airlines\/favicon\/AM.png",
+                                "name": "Aeromexico"
+                            }
+                        ],
+                        "operationType": "fully_operated"
+                    },
+                    "segments": [
+                        {
+                            "id": "13993-16920-2502041255-2502041458--32733",
+                            "origin": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "destination": {
+                                "flightPlaceId": "TIJ",
+                                "displayCode": "TIJ",
+                                "parent": {
+                                    "flightPlaceId": "TIJA",
+                                    "displayCode": "TIJ",
+                                    "name": "Tijuana",
+                                    "type": "City"
+                                },
+                                "name": "Tijuana",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "departure": "2025-02-04T12:55:00",
+                            "arrival": "2025-02-04T14:58:00",
+                            "durationInMinutes": 243,
+                            "flightNumber": "174",
+                            "marketingCarrier": {
+                                "id": -32733,
+                                "name": "Aeromexico",
+                                "alternateId": "AM",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -32733,
+                                "name": "Aeromexico",
+                                "alternateId": "AM",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "16920-2502261106--32733-0-13993-2502261630",
+                    "origin": {
+                        "id": "TIJ",
+                        "entityId": "95673471",
+                        "name": "Tijuana",
+                        "displayCode": "TIJ",
+                        "city": "Tijuana",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "destination": {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International",
+                        "displayCode": "MEX",
+                        "city": "Mexico City",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "durationInMinutes": 204,
+                    "stopCount": 0,
+                    "isSmallestStops": false,
+                    "departure": "2025-02-26T11:06:00",
+                    "arrival": "2025-02-26T16:30:00",
+                    "timeDeltaInDays": 0,
+                    "carriers": {
+                        "marketing": [
+                            {
+                                "id": -32733,
+                                "alternateId": "AM",
+                                "logoUrl": "https:\/\/logos.skyscnr.com\/images\/airlines\/favicon\/AM.png",
+                                "name": "Aeromexico"
+                            }
+                        ],
+                        "operationType": "fully_operated"
+                    },
+                    "segments": [
+                        {
+                            "id": "16920-13993-2502261106-2502261630--32733",
+                            "origin": {
+                                "flightPlaceId": "TIJ",
+                                "displayCode": "TIJ",
+                                "parent": {
+                                    "flightPlaceId": "TIJA",
+                                    "displayCode": "TIJ",
+                                    "name": "Tijuana",
+                                    "type": "City"
+                                },
+                                "name": "Tijuana",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "destination": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "departure": "2025-02-26T11:06:00",
+                            "arrival": "2025-02-26T16:30:00",
+                            "durationInMinutes": 204,
+                            "flightNumber": "177",
+                            "marketingCarrier": {
+                                "id": -32733,
+                                "name": "Aeromexico",
+                                "alternateId": "AM",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -32733,
+                                "name": "Aeromexico",
+                                "alternateId": "AM",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
+                }
+            ],
+            "isSelfTransfer": false,
+            "isProtectedSelfTransfer": false,
+            "farePolicy": {
+                "isChangeAllowed": false,
+                "isPartiallyChangeable": false,
+                "isCancellationAllowed": false,
+                "isPartiallyRefundable": false
+            },
+            "fareAttributes": [],
+            "tags": [
+                "second_cheapest",
+                "second_shortest"
+            ],
+            "isMashUp": false,
+            "hasFlexibleOptions": false,
+            "score": 0.78625
+        },
+        {
+            "id": "13993-2502041030--32733-0-16920-2502041233|16920-2502261106--32733-0-13993-2502261630",
+            "price": {
+                "raw": 931.36,
+                "formatted": "$932",
+                "pricingOptionId": "_308T-GaR4eg"
+            },
+            "legs": [
+                {
+                    "id": "13993-2502041030--32733-0-16920-2502041233",
+                    "origin": {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International",
+                        "displayCode": "MEX",
+                        "city": "Mexico City",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "destination": {
+                        "id": "TIJ",
+                        "entityId": "95673471",
+                        "name": "Tijuana",
+                        "displayCode": "TIJ",
+                        "city": "Tijuana",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "durationInMinutes": 243,
+                    "stopCount": 0,
+                    "isSmallestStops": false,
+                    "departure": "2025-02-04T10:30:00",
+                    "arrival": "2025-02-04T12:33:00",
+                    "timeDeltaInDays": 0,
+                    "carriers": {
+                        "marketing": [
+                            {
+                                "id": -32733,
+                                "alternateId": "AM",
+                                "logoUrl": "https:\/\/logos.skyscnr.com\/images\/airlines\/favicon\/AM.png",
+                                "name": "Aeromexico"
+                            }
+                        ],
+                        "operationType": "fully_operated"
+                    },
+                    "segments": [
+                        {
+                            "id": "13993-16920-2502041030-2502041233--32733",
+                            "origin": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "destination": {
+                                "flightPlaceId": "TIJ",
+                                "displayCode": "TIJ",
+                                "parent": {
+                                    "flightPlaceId": "TIJA",
+                                    "displayCode": "TIJ",
+                                    "name": "Tijuana",
+                                    "type": "City"
+                                },
+                                "name": "Tijuana",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "departure": "2025-02-04T10:30:00",
+                            "arrival": "2025-02-04T12:33:00",
+                            "durationInMinutes": 243,
+                            "flightNumber": "172",
+                            "marketingCarrier": {
+                                "id": -32733,
+                                "name": "Aeromexico",
+                                "alternateId": "AM",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -32733,
+                                "name": "Aeromexico",
+                                "alternateId": "AM",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "16920-2502261106--32733-0-13993-2502261630",
+                    "origin": {
+                        "id": "TIJ",
+                        "entityId": "95673471",
+                        "name": "Tijuana",
+                        "displayCode": "TIJ",
+                        "city": "Tijuana",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "destination": {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International",
+                        "displayCode": "MEX",
+                        "city": "Mexico City",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "durationInMinutes": 204,
+                    "stopCount": 0,
+                    "isSmallestStops": false,
+                    "departure": "2025-02-26T11:06:00",
+                    "arrival": "2025-02-26T16:30:00",
+                    "timeDeltaInDays": 0,
+                    "carriers": {
+                        "marketing": [
+                            {
+                                "id": -32733,
+                                "alternateId": "AM",
+                                "logoUrl": "https:\/\/logos.skyscnr.com\/images\/airlines\/favicon\/AM.png",
+                                "name": "Aeromexico"
+                            }
+                        ],
+                        "operationType": "fully_operated"
+                    },
+                    "segments": [
+                        {
+                            "id": "16920-13993-2502261106-2502261630--32733",
+                            "origin": {
+                                "flightPlaceId": "TIJ",
+                                "displayCode": "TIJ",
+                                "parent": {
+                                    "flightPlaceId": "TIJA",
+                                    "displayCode": "TIJ",
+                                    "name": "Tijuana",
+                                    "type": "City"
+                                },
+                                "name": "Tijuana",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "destination": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "departure": "2025-02-26T11:06:00",
+                            "arrival": "2025-02-26T16:30:00",
+                            "durationInMinutes": 204,
+                            "flightNumber": "177",
+                            "marketingCarrier": {
+                                "id": -32733,
+                                "name": "Aeromexico",
+                                "alternateId": "AM",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -32733,
+                                "name": "Aeromexico",
+                                "alternateId": "AM",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
+                }
+            ],
+            "isSelfTransfer": false,
+            "isProtectedSelfTransfer": false,
+            "farePolicy": {
+                "isChangeAllowed": false,
+                "isPartiallyChangeable": false,
+                "isCancellationAllowed": false,
+                "isPartiallyRefundable": false
+            },
+            "fareAttributes": [],
+            "tags": [
+                "third_cheapest",
+                "third_shortest"
+            ],
+            "isMashUp": false,
+            "hasFlexibleOptions": false,
+            "score": 0.784642
+        },
+        {
+            "id": "13993-2502041030--32733-0-16920-2502041233|16920-2502261541--32733-0-13993-2502262105",
+            "price": {
+                "raw": 954.24,
+                "formatted": "$955",
+                "pricingOptionId": "w8CasuCgDuxm"
+            },
+            "legs": [
+                {
+                    "id": "13993-2502041030--32733-0-16920-2502041233",
+                    "origin": {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International",
+                        "displayCode": "MEX",
+                        "city": "Mexico City",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "destination": {
+                        "id": "TIJ",
+                        "entityId": "95673471",
+                        "name": "Tijuana",
+                        "displayCode": "TIJ",
+                        "city": "Tijuana",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "durationInMinutes": 243,
+                    "stopCount": 0,
+                    "isSmallestStops": false,
+                    "departure": "2025-02-04T10:30:00",
+                    "arrival": "2025-02-04T12:33:00",
+                    "timeDeltaInDays": 0,
+                    "carriers": {
+                        "marketing": [
+                            {
+                                "id": -32733,
+                                "alternateId": "AM",
+                                "logoUrl": "https:\/\/logos.skyscnr.com\/images\/airlines\/favicon\/AM.png",
+                                "name": "Aeromexico"
+                            }
+                        ],
+                        "operationType": "fully_operated"
+                    },
+                    "segments": [
+                        {
+                            "id": "13993-16920-2502041030-2502041233--32733",
+                            "origin": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "destination": {
+                                "flightPlaceId": "TIJ",
+                                "displayCode": "TIJ",
+                                "parent": {
+                                    "flightPlaceId": "TIJA",
+                                    "displayCode": "TIJ",
+                                    "name": "Tijuana",
+                                    "type": "City"
+                                },
+                                "name": "Tijuana",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "departure": "2025-02-04T10:30:00",
+                            "arrival": "2025-02-04T12:33:00",
+                            "durationInMinutes": 243,
+                            "flightNumber": "172",
+                            "marketingCarrier": {
+                                "id": -32733,
+                                "name": "Aeromexico",
+                                "alternateId": "AM",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -32733,
+                                "name": "Aeromexico",
+                                "alternateId": "AM",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "16920-2502261541--32733-0-13993-2502262105",
+                    "origin": {
+                        "id": "TIJ",
+                        "entityId": "95673471",
+                        "name": "Tijuana",
+                        "displayCode": "TIJ",
+                        "city": "Tijuana",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "destination": {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International",
+                        "displayCode": "MEX",
+                        "city": "Mexico City",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "durationInMinutes": 204,
+                    "stopCount": 0,
+                    "isSmallestStops": false,
+                    "departure": "2025-02-26T15:41:00",
+                    "arrival": "2025-02-26T21:05:00",
+                    "timeDeltaInDays": 0,
+                    "carriers": {
+                        "marketing": [
+                            {
+                                "id": -32733,
+                                "alternateId": "AM",
+                                "logoUrl": "https:\/\/logos.skyscnr.com\/images\/airlines\/favicon\/AM.png",
+                                "name": "Aeromexico"
+                            }
+                        ],
+                        "operationType": "fully_operated"
+                    },
+                    "segments": [
+                        {
+                            "id": "16920-13993-2502261541-2502262105--32733",
+                            "origin": {
+                                "flightPlaceId": "TIJ",
+                                "displayCode": "TIJ",
+                                "parent": {
+                                    "flightPlaceId": "TIJA",
+                                    "displayCode": "TIJ",
+                                    "name": "Tijuana",
+                                    "type": "City"
+                                },
+                                "name": "Tijuana",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "destination": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "departure": "2025-02-26T15:41:00",
+                            "arrival": "2025-02-26T21:05:00",
+                            "durationInMinutes": 204,
+                            "flightNumber": "185",
+                            "marketingCarrier": {
+                                "id": -32733,
+                                "name": "Aeromexico",
+                                "alternateId": "AM",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -32733,
+                                "name": "Aeromexico",
+                                "alternateId": "AM",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
+                }
+            ],
+            "isSelfTransfer": false,
+            "isProtectedSelfTransfer": false,
+            "farePolicy": {
+                "isChangeAllowed": false,
+                "isPartiallyChangeable": false,
+                "isCancellationAllowed": false,
+                "isPartiallyRefundable": false
+            },
+            "fareAttributes": [],
+            "isMashUp": false,
+            "hasFlexibleOptions": false,
+            "score": 0.783986
+        },
+        {
+            "id": "13993-2502041540--32733-0-16920-2502041743|16920-2502261246--32733-0-13993-2502261810",
+            "price": {
+                "raw": 906.48,
+                "formatted": "$907",
+                "pricingOptionId": "M-hgzxIouGpd"
+            },
+            "legs": [
+                {
+                    "id": "13993-2502041540--32733-0-16920-2502041743",
+                    "origin": {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International",
+                        "displayCode": "MEX",
+                        "city": "Mexico City",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "destination": {
+                        "id": "TIJ",
+                        "entityId": "95673471",
+                        "name": "Tijuana",
+                        "displayCode": "TIJ",
+                        "city": "Tijuana",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "durationInMinutes": 243,
+                    "stopCount": 0,
+                    "isSmallestStops": false,
+                    "departure": "2025-02-04T15:40:00",
+                    "arrival": "2025-02-04T17:43:00",
+                    "timeDeltaInDays": 0,
+                    "carriers": {
+                        "marketing": [
+                            {
+                                "id": -32733,
+                                "alternateId": "AM",
+                                "logoUrl": "https:\/\/logos.skyscnr.com\/images\/airlines\/favicon\/AM.png",
+                                "name": "Aeromexico"
+                            }
+                        ],
+                        "operationType": "fully_operated"
+                    },
+                    "segments": [
+                        {
+                            "id": "13993-16920-2502041540-2502041743--32733",
+                            "origin": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "destination": {
+                                "flightPlaceId": "TIJ",
+                                "displayCode": "TIJ",
+                                "parent": {
+                                    "flightPlaceId": "TIJA",
+                                    "displayCode": "TIJ",
+                                    "name": "Tijuana",
+                                    "type": "City"
+                                },
+                                "name": "Tijuana",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "departure": "2025-02-04T15:40:00",
+                            "arrival": "2025-02-04T17:43:00",
+                            "durationInMinutes": 243,
+                            "flightNumber": "178",
+                            "marketingCarrier": {
+                                "id": -32733,
+                                "name": "Aeromexico",
+                                "alternateId": "AM",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -32733,
+                                "name": "Aeromexico",
+                                "alternateId": "AM",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "16920-2502261246--32733-0-13993-2502261810",
+                    "origin": {
+                        "id": "TIJ",
+                        "entityId": "95673471",
+                        "name": "Tijuana",
+                        "displayCode": "TIJ",
+                        "city": "Tijuana",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "destination": {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International",
+                        "displayCode": "MEX",
+                        "city": "Mexico City",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "durationInMinutes": 204,
+                    "stopCount": 0,
+                    "isSmallestStops": false,
+                    "departure": "2025-02-26T12:46:00",
+                    "arrival": "2025-02-26T18:10:00",
+                    "timeDeltaInDays": 0,
+                    "carriers": {
+                        "marketing": [
+                            {
+                                "id": -32733,
+                                "alternateId": "AM",
+                                "logoUrl": "https:\/\/logos.skyscnr.com\/images\/airlines\/favicon\/AM.png",
+                                "name": "Aeromexico"
+                            }
+                        ],
+                        "operationType": "fully_operated"
+                    },
+                    "segments": [
+                        {
+                            "id": "16920-13993-2502261246-2502261810--32733",
+                            "origin": {
+                                "flightPlaceId": "TIJ",
+                                "displayCode": "TIJ",
+                                "parent": {
+                                    "flightPlaceId": "TIJA",
+                                    "displayCode": "TIJ",
+                                    "name": "Tijuana",
+                                    "type": "City"
+                                },
+                                "name": "Tijuana",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "destination": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "departure": "2025-02-26T12:46:00",
+                            "arrival": "2025-02-26T18:10:00",
+                            "durationInMinutes": 204,
+                            "flightNumber": "179",
+                            "marketingCarrier": {
+                                "id": -32733,
+                                "name": "Aeromexico",
+                                "alternateId": "AM",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -32733,
+                                "name": "Aeromexico",
+                                "alternateId": "AM",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
+                }
+            ],
+            "isSelfTransfer": false,
+            "isProtectedSelfTransfer": false,
+            "farePolicy": {
+                "isChangeAllowed": false,
+                "isPartiallyChangeable": false,
+                "isCancellationAllowed": false,
+                "isPartiallyRefundable": false
+            },
+            "fareAttributes": [],
+            "tags": [
+                "cheapest",
+                "shortest"
+            ],
+            "isMashUp": false,
+            "hasFlexibleOptions": false,
+            "score": 0.777436
+        },
+        {
+            "id": "13993-2502041255--32733-0-16920-2502041458|16920-2502261736--32733-0-13993-2502262300",
+            "price": {
+                "raw": 919.02,
+                "formatted": "$920",
+                "pricingOptionId": "RF2ZZBTWDhIj"
+            },
+            "legs": [
+                {
+                    "id": "13993-2502041255--32733-0-16920-2502041458",
+                    "origin": {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International",
+                        "displayCode": "MEX",
+                        "city": "Mexico City",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "destination": {
+                        "id": "TIJ",
+                        "entityId": "95673471",
+                        "name": "Tijuana",
+                        "displayCode": "TIJ",
+                        "city": "Tijuana",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "durationInMinutes": 243,
+                    "stopCount": 0,
+                    "isSmallestStops": false,
+                    "departure": "2025-02-04T12:55:00",
+                    "arrival": "2025-02-04T14:58:00",
+                    "timeDeltaInDays": 0,
+                    "carriers": {
+                        "marketing": [
+                            {
+                                "id": -32733,
+                                "alternateId": "AM",
+                                "logoUrl": "https:\/\/logos.skyscnr.com\/images\/airlines\/favicon\/AM.png",
+                                "name": "Aeromexico"
+                            }
+                        ],
+                        "operationType": "fully_operated"
+                    },
+                    "segments": [
+                        {
+                            "id": "13993-16920-2502041255-2502041458--32733",
+                            "origin": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "destination": {
+                                "flightPlaceId": "TIJ",
+                                "displayCode": "TIJ",
+                                "parent": {
+                                    "flightPlaceId": "TIJA",
+                                    "displayCode": "TIJ",
+                                    "name": "Tijuana",
+                                    "type": "City"
+                                },
+                                "name": "Tijuana",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "departure": "2025-02-04T12:55:00",
+                            "arrival": "2025-02-04T14:58:00",
+                            "durationInMinutes": 243,
+                            "flightNumber": "174",
+                            "marketingCarrier": {
+                                "id": -32733,
+                                "name": "Aeromexico",
+                                "alternateId": "AM",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -32733,
+                                "name": "Aeromexico",
+                                "alternateId": "AM",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "16920-2502261736--32733-0-13993-2502262300",
+                    "origin": {
+                        "id": "TIJ",
+                        "entityId": "95673471",
+                        "name": "Tijuana",
+                        "displayCode": "TIJ",
+                        "city": "Tijuana",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "destination": {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International",
+                        "displayCode": "MEX",
+                        "city": "Mexico City",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "durationInMinutes": 204,
+                    "stopCount": 0,
+                    "isSmallestStops": false,
+                    "departure": "2025-02-26T17:36:00",
+                    "arrival": "2025-02-26T23:00:00",
+                    "timeDeltaInDays": 0,
+                    "carriers": {
+                        "marketing": [
+                            {
+                                "id": -32733,
+                                "alternateId": "AM",
+                                "logoUrl": "https:\/\/logos.skyscnr.com\/images\/airlines\/favicon\/AM.png",
+                                "name": "Aeromexico"
+                            }
+                        ],
+                        "operationType": "fully_operated"
+                    },
+                    "segments": [
+                        {
+                            "id": "16920-13993-2502261736-2502262300--32733",
+                            "origin": {
+                                "flightPlaceId": "TIJ",
+                                "displayCode": "TIJ",
+                                "parent": {
+                                    "flightPlaceId": "TIJA",
+                                    "displayCode": "TIJ",
+                                    "name": "Tijuana",
+                                    "type": "City"
+                                },
+                                "name": "Tijuana",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "destination": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "departure": "2025-02-26T17:36:00",
+                            "arrival": "2025-02-26T23:00:00",
+                            "durationInMinutes": 204,
+                            "flightNumber": "187",
+                            "marketingCarrier": {
+                                "id": -32733,
+                                "name": "Aeromexico",
+                                "alternateId": "AM",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -32733,
+                                "name": "Aeromexico",
+                                "alternateId": "AM",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
+                }
+            ],
+            "isSelfTransfer": false,
+            "isProtectedSelfTransfer": false,
+            "farePolicy": {
+                "isChangeAllowed": false,
+                "isPartiallyChangeable": false,
+                "isCancellationAllowed": false,
+                "isPartiallyRefundable": false
+            },
+            "fareAttributes": [],
+            "tags": [
+                "second_cheapest",
+                "second_shortest"
+            ],
+            "isMashUp": false,
+            "hasFlexibleOptions": false,
+            "score": 0.775642
+        }
+    ],
+    "messages": [],
+    "filterStats": {
+        "duration": {
+            "min": 243,
+            "max": 243,
+            "multiCityMin": 447,
+            "multiCityMax": 447
+        },
+        "airports": [
+            {
+                "city": "Mexico City",
+                "airports": [
+                    {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International"
+                    }
+                ]
+            },
+            {
+                "city": "Tijuana",
+                "airports": [
+                    {
+                        "id": "TIJ",
+                        "entityId": "95673471",
+                        "name": "Tijuana"
+                    }
+                ]
+            }
+        ],
+        "stopPrices": {
+            "direct": {
+                "isPresent": true,
+                "formattedPrice": "$907"
+            },
+            "one": {
+                "isPresent": false
+            },
+            "twoOrMore": {
+                "isPresent": false
+            }
+        }
+    },
+    "flightsSessionId": "3f8d703d-c24a-42a4-9563-4ad162990e8b",
+    "destinationImageUrl": "https:\/\/content.skyscnr.com\/m\/3719e8f4a5daf43d\/original\/Flights-Placeholder.jpg",
+    "sessionId": "3f8d703d-c24a-42a4-9563-4ad162990e8b"
+}

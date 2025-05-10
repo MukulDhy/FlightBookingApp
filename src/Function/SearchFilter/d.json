@@ -1,0 +1,63 @@
+{
+    "_id": "64e230057ff70300e2f30495",
+    "airlineLogo": "https://i.ibb.co/W632FFy/images-5.jpg",
+    "airlineName": "JET Airlines",
+    "passengerType": "Adult",
+    "stopType": "With Stops",
+    "refundableStatus": "Partially Refundable",
+    "flightInfo": {
+        "flightNumber": "BG | 137",
+        "aircraft": "Boeing 787-8",
+        "operatedBy": "BG",
+        "class": "Economy (G)",
+        "baggage": "20 Kg(s)",
+        "checkIn": "20 Kg(s)",
+        "cabin": "7 Kg(s)"
+    },
+    "cancellationRules": [
+        {
+            "rule": "Maximum penalty amount",
+            "amountPerKm": 50
+        }
+    ],
+    "dateChangeRules": [
+        {
+            "rule": "Maximum penalty amount",
+            "amountPerKm": 30
+        }
+    ],
+    "notes": [
+        "*Note For Voluntary Cancellation: Service fees & gateway charges will be additionally applied on top of penalty amount. Some taxes may not be refundable\",\"*Note For Date Change: Service Fees, Fare difference and Tax difference will be additionally applied on top of penalty amount which is nonrefundable in any circumstances."
+    ],
+    "duration": 31,
+    "availableSeats": {
+        "flightId": "64e230057ff70300e2f30495",
+        "totalSeat": "50",
+        "available": "50",
+        "seats": [
+        ]
+    },
+    "departure": {
+        "code": "DAC",
+        "time": "16:15",
+        "date": "2025-01-10",
+        "city": "Dhaka",
+        "terminal": "B",
+        "airportName": "Dhaka Airport",
+        "seats": "50"
+    },
+    "arrival": {
+        "code": "BZL",
+        "time": "16:46",
+        "date": "2025-01-11",
+        "city": "Barisal",
+        "airlineName": "Novo Airlines",
+        "terminal": "A",
+        "airportName": "Barisal Airport"
+    },
+    "fareSummary": {
+        "baseFare": "1167",
+        "taxesAndFees": "152",
+        "total": "1319"
+    }
+}

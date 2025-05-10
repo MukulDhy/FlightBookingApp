@@ -1,0 +1,3444 @@
+{
+    "context": {
+        "status": "incomplete",
+        "sessionId": "Cl0IARJZCk4KJDZiNmMzMDg0LWYwNDctNDdmNS1iN2EyLTZmMGQxYWI4MzE1YxACGiQ1MzU3MTRlOC1kMTRlLTQ2NjctOTk2Yy0zMzczN2I2M2NhYTUQ2I7EnM0yGAESKHVzc183ZWM5MzVjMS1lMDIyLTRlZWEtODAyNC1iM2M4ZWVlN2Q4MWQiAlVT",
+        "totalResults": 10
+    },
+    "itineraries": [
+        {
+            "id": "13993-2502071740--31722-2-13902-2502081346|13902-2502271448--31722-1-13993-2502280010",
+            "price": {
+                "raw": 2420.96,
+                "formatted": "$2,421",
+                "pricingOptionId": "xFqe-cUrcEnL"
+            },
+            "legs": [
+                {
+                    "id": "13993-2502071740--31722-2-13902-2502081346",
+                    "origin": {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International",
+                        "displayCode": "MEX",
+                        "city": "Mexico City",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "destination": {
+                        "id": "MBJ",
+                        "entityId": "99539667",
+                        "name": "Montego Bay",
+                        "displayCode": "MBJ",
+                        "city": "Montego Bay",
+                        "country": "Jamaica",
+                        "isHighlighted": false
+                    },
+                    "durationInMinutes": 1146,
+                    "stopCount": 2,
+                    "isSmallestStops": false,
+                    "departure": "2025-02-07T17:40:00",
+                    "arrival": "2025-02-08T13:46:00",
+                    "timeDeltaInDays": 1,
+                    "carriers": {
+                        "marketing": [
+                            {
+                                "id": -31722,
+                                "alternateId": "UA",
+                                "logoUrl": "https:\/\/logos.skyscnr.com\/images\/airlines\/favicon\/UA.png",
+                                "name": "United"
+                            }
+                        ],
+                        "operationType": "fully_operated"
+                    },
+                    "segments": [
+                        {
+                            "id": "13993-12389-2502071740-2502071958--31722",
+                            "origin": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "destination": {
+                                "flightPlaceId": "IAH",
+                                "displayCode": "IAH",
+                                "parent": {
+                                    "flightPlaceId": "HOUA",
+                                    "displayCode": "HOU",
+                                    "name": "Houston",
+                                    "type": "City"
+                                },
+                                "name": "Houston George Bush Intercntl.",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "departure": "2025-02-07T17:40:00",
+                            "arrival": "2025-02-07T19:58:00",
+                            "durationInMinutes": 138,
+                            "flightNumber": "1025",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        },
+                        {
+                            "id": "12389-15062-2502072136-2502080015--31722",
+                            "origin": {
+                                "flightPlaceId": "IAH",
+                                "displayCode": "IAH",
+                                "parent": {
+                                    "flightPlaceId": "HOUA",
+                                    "displayCode": "HOU",
+                                    "name": "Houston",
+                                    "type": "City"
+                                },
+                                "name": "Houston George Bush Intercntl.",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "destination": {
+                                "flightPlaceId": "ORD",
+                                "displayCode": "ORD",
+                                "parent": {
+                                    "flightPlaceId": "CHIA",
+                                    "displayCode": "CHI",
+                                    "name": "Chicago",
+                                    "type": "City"
+                                },
+                                "name": "Chicago O'Hare International",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "departure": "2025-02-07T21:36:00",
+                            "arrival": "2025-02-08T00:15:00",
+                            "durationInMinutes": 159,
+                            "flightNumber": "1858",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        },
+                        {
+                            "id": "15062-13902-2502080841-2502081346--31722",
+                            "origin": {
+                                "flightPlaceId": "ORD",
+                                "displayCode": "ORD",
+                                "parent": {
+                                    "flightPlaceId": "CHIA",
+                                    "displayCode": "CHI",
+                                    "name": "Chicago",
+                                    "type": "City"
+                                },
+                                "name": "Chicago O'Hare International",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "destination": {
+                                "flightPlaceId": "MBJ",
+                                "displayCode": "MBJ",
+                                "parent": {
+                                    "flightPlaceId": "MBJA",
+                                    "displayCode": "MBJ",
+                                    "name": "Montego Bay",
+                                    "type": "City"
+                                },
+                                "name": "Montego Bay",
+                                "type": "Airport",
+                                "country": "Jamaica"
+                            },
+                            "departure": "2025-02-08T08:41:00",
+                            "arrival": "2025-02-08T13:46:00",
+                            "durationInMinutes": 245,
+                            "flightNumber": "1146",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "13902-2502271448--31722-1-13993-2502280010",
+                    "origin": {
+                        "id": "MBJ",
+                        "entityId": "99539667",
+                        "name": "Montego Bay",
+                        "displayCode": "MBJ",
+                        "city": "Montego Bay",
+                        "country": "Jamaica",
+                        "isHighlighted": false
+                    },
+                    "destination": {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International",
+                        "displayCode": "MEX",
+                        "city": "Mexico City",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "durationInMinutes": 622,
+                    "stopCount": 1,
+                    "isSmallestStops": false,
+                    "departure": "2025-02-27T14:48:00",
+                    "arrival": "2025-02-28T00:10:00",
+                    "timeDeltaInDays": 1,
+                    "carriers": {
+                        "marketing": [
+                            {
+                                "id": -31722,
+                                "alternateId": "UA",
+                                "logoUrl": "https:\/\/logos.skyscnr.com\/images\/airlines\/favicon\/UA.png",
+                                "name": "United"
+                            }
+                        ],
+                        "operationType": "fully_operated"
+                    },
+                    "segments": [
+                        {
+                            "id": "13902-15062-2502271448-2502271810--31722",
+                            "origin": {
+                                "flightPlaceId": "MBJ",
+                                "displayCode": "MBJ",
+                                "parent": {
+                                    "flightPlaceId": "MBJA",
+                                    "displayCode": "MBJ",
+                                    "name": "Montego Bay",
+                                    "type": "City"
+                                },
+                                "name": "Montego Bay",
+                                "type": "Airport",
+                                "country": "Jamaica"
+                            },
+                            "destination": {
+                                "flightPlaceId": "ORD",
+                                "displayCode": "ORD",
+                                "parent": {
+                                    "flightPlaceId": "CHIA",
+                                    "displayCode": "CHI",
+                                    "name": "Chicago",
+                                    "type": "City"
+                                },
+                                "name": "Chicago O'Hare International",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "departure": "2025-02-27T14:48:00",
+                            "arrival": "2025-02-27T18:10:00",
+                            "durationInMinutes": 262,
+                            "flightNumber": "1160",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        },
+                        {
+                            "id": "15062-13993-2502271940-2502280010--31722",
+                            "origin": {
+                                "flightPlaceId": "ORD",
+                                "displayCode": "ORD",
+                                "parent": {
+                                    "flightPlaceId": "CHIA",
+                                    "displayCode": "CHI",
+                                    "name": "Chicago",
+                                    "type": "City"
+                                },
+                                "name": "Chicago O'Hare International",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "destination": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "departure": "2025-02-27T19:40:00",
+                            "arrival": "2025-02-28T00:10:00",
+                            "durationInMinutes": 270,
+                            "flightNumber": "1547",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
+                }
+            ],
+            "isSelfTransfer": false,
+            "isProtectedSelfTransfer": false,
+            "farePolicy": {
+                "isChangeAllowed": false,
+                "isPartiallyChangeable": false,
+                "isCancellationAllowed": false,
+                "isPartiallyRefundable": false
+            },
+            "fareAttributes": [],
+            "tags": [
+                "shortest"
+            ],
+            "isMashUp": false,
+            "hasFlexibleOptions": false,
+            "score": 0.999
+        },
+        {
+            "id": "13993-2502071515--31722-2-13902-2502081220|13902-2502271448--31722-1-13993-2502280010",
+            "price": {
+                "raw": 2333.56,
+                "formatted": "$2,334",
+                "pricingOptionId": "efB-gtqVmufl"
+            },
+            "legs": [
+                {
+                    "id": "13993-2502071515--31722-2-13902-2502081220",
+                    "origin": {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International",
+                        "displayCode": "MEX",
+                        "city": "Mexico City",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "destination": {
+                        "id": "MBJ",
+                        "entityId": "99539667",
+                        "name": "Montego Bay",
+                        "displayCode": "MBJ",
+                        "city": "Montego Bay",
+                        "country": "Jamaica",
+                        "isHighlighted": false
+                    },
+                    "durationInMinutes": 1205,
+                    "stopCount": 2,
+                    "isSmallestStops": false,
+                    "departure": "2025-02-07T15:15:00",
+                    "arrival": "2025-02-08T12:20:00",
+                    "timeDeltaInDays": 1,
+                    "carriers": {
+                        "marketing": [
+                            {
+                                "id": -31722,
+                                "alternateId": "UA",
+                                "logoUrl": "https:\/\/logos.skyscnr.com\/images\/airlines\/favicon\/UA.png",
+                                "name": "United"
+                            }
+                        ],
+                        "operationType": "fully_operated"
+                    },
+                    "segments": [
+                        {
+                            "id": "13993-12389-2502071515-2502071733--31722",
+                            "origin": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "destination": {
+                                "flightPlaceId": "IAH",
+                                "displayCode": "IAH",
+                                "parent": {
+                                    "flightPlaceId": "HOUA",
+                                    "displayCode": "HOU",
+                                    "name": "Houston",
+                                    "type": "City"
+                                },
+                                "name": "Houston George Bush Intercntl.",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "departure": "2025-02-07T15:15:00",
+                            "arrival": "2025-02-07T17:33:00",
+                            "durationInMinutes": 138,
+                            "flightNumber": "1838",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        },
+                        {
+                            "id": "12389-11442-2502072017-2502080046--31722",
+                            "origin": {
+                                "flightPlaceId": "IAH",
+                                "displayCode": "IAH",
+                                "parent": {
+                                    "flightPlaceId": "HOUA",
+                                    "displayCode": "HOU",
+                                    "name": "Houston",
+                                    "type": "City"
+                                },
+                                "name": "Houston George Bush Intercntl.",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "destination": {
+                                "flightPlaceId": "EWR",
+                                "displayCode": "EWR",
+                                "parent": {
+                                    "flightPlaceId": "NYCA",
+                                    "displayCode": "NYC",
+                                    "name": "New York",
+                                    "type": "City"
+                                },
+                                "name": "New York Newark",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "departure": "2025-02-07T20:17:00",
+                            "arrival": "2025-02-08T00:46:00",
+                            "durationInMinutes": 209,
+                            "flightNumber": "1444",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        },
+                        {
+                            "id": "11442-13902-2502080813-2502081220--31722",
+                            "origin": {
+                                "flightPlaceId": "EWR",
+                                "displayCode": "EWR",
+                                "parent": {
+                                    "flightPlaceId": "NYCA",
+                                    "displayCode": "NYC",
+                                    "name": "New York",
+                                    "type": "City"
+                                },
+                                "name": "New York Newark",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "destination": {
+                                "flightPlaceId": "MBJ",
+                                "displayCode": "MBJ",
+                                "parent": {
+                                    "flightPlaceId": "MBJA",
+                                    "displayCode": "MBJ",
+                                    "name": "Montego Bay",
+                                    "type": "City"
+                                },
+                                "name": "Montego Bay",
+                                "type": "Airport",
+                                "country": "Jamaica"
+                            },
+                            "departure": "2025-02-08T08:13:00",
+                            "arrival": "2025-02-08T12:20:00",
+                            "durationInMinutes": 247,
+                            "flightNumber": "2126",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "13902-2502271448--31722-1-13993-2502280010",
+                    "origin": {
+                        "id": "MBJ",
+                        "entityId": "99539667",
+                        "name": "Montego Bay",
+                        "displayCode": "MBJ",
+                        "city": "Montego Bay",
+                        "country": "Jamaica",
+                        "isHighlighted": false
+                    },
+                    "destination": {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International",
+                        "displayCode": "MEX",
+                        "city": "Mexico City",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "durationInMinutes": 622,
+                    "stopCount": 1,
+                    "isSmallestStops": false,
+                    "departure": "2025-02-27T14:48:00",
+                    "arrival": "2025-02-28T00:10:00",
+                    "timeDeltaInDays": 1,
+                    "carriers": {
+                        "marketing": [
+                            {
+                                "id": -31722,
+                                "alternateId": "UA",
+                                "logoUrl": "https:\/\/logos.skyscnr.com\/images\/airlines\/favicon\/UA.png",
+                                "name": "United"
+                            }
+                        ],
+                        "operationType": "fully_operated"
+                    },
+                    "segments": [
+                        {
+                            "id": "13902-15062-2502271448-2502271810--31722",
+                            "origin": {
+                                "flightPlaceId": "MBJ",
+                                "displayCode": "MBJ",
+                                "parent": {
+                                    "flightPlaceId": "MBJA",
+                                    "displayCode": "MBJ",
+                                    "name": "Montego Bay",
+                                    "type": "City"
+                                },
+                                "name": "Montego Bay",
+                                "type": "Airport",
+                                "country": "Jamaica"
+                            },
+                            "destination": {
+                                "flightPlaceId": "ORD",
+                                "displayCode": "ORD",
+                                "parent": {
+                                    "flightPlaceId": "CHIA",
+                                    "displayCode": "CHI",
+                                    "name": "Chicago",
+                                    "type": "City"
+                                },
+                                "name": "Chicago O'Hare International",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "departure": "2025-02-27T14:48:00",
+                            "arrival": "2025-02-27T18:10:00",
+                            "durationInMinutes": 262,
+                            "flightNumber": "1160",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        },
+                        {
+                            "id": "15062-13993-2502271940-2502280010--31722",
+                            "origin": {
+                                "flightPlaceId": "ORD",
+                                "displayCode": "ORD",
+                                "parent": {
+                                    "flightPlaceId": "CHIA",
+                                    "displayCode": "CHI",
+                                    "name": "Chicago",
+                                    "type": "City"
+                                },
+                                "name": "Chicago O'Hare International",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "destination": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "departure": "2025-02-27T19:40:00",
+                            "arrival": "2025-02-28T00:10:00",
+                            "durationInMinutes": 270,
+                            "flightNumber": "1547",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
+                }
+            ],
+            "isSelfTransfer": false,
+            "isProtectedSelfTransfer": false,
+            "farePolicy": {
+                "isChangeAllowed": false,
+                "isPartiallyChangeable": false,
+                "isCancellationAllowed": false,
+                "isPartiallyRefundable": false
+            },
+            "fareAttributes": [],
+            "tags": [
+                "third_shortest"
+            ],
+            "isMashUp": false,
+            "hasFlexibleOptions": false,
+            "score": 0.913411
+        },
+        {
+            "id": "13993-2502071740--31722-1-13902-2502081400|13902-2502271448--31722-1-13993-2502280010",
+            "price": {
+                "raw": 2503.56,
+                "formatted": "$2,504",
+                "pricingOptionId": "ECT5es8_-Ars"
+            },
+            "legs": [
+                {
+                    "id": "13993-2502071740--31722-1-13902-2502081400",
+                    "origin": {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International",
+                        "displayCode": "MEX",
+                        "city": "Mexico City",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "destination": {
+                        "id": "MBJ",
+                        "entityId": "99539667",
+                        "name": "Montego Bay",
+                        "displayCode": "MBJ",
+                        "city": "Montego Bay",
+                        "country": "Jamaica",
+                        "isHighlighted": false
+                    },
+                    "durationInMinutes": 1160,
+                    "stopCount": 1,
+                    "isSmallestStops": false,
+                    "departure": "2025-02-07T17:40:00",
+                    "arrival": "2025-02-08T14:00:00",
+                    "timeDeltaInDays": 1,
+                    "carriers": {
+                        "marketing": [
+                            {
+                                "id": -31722,
+                                "alternateId": "UA",
+                                "logoUrl": "https:\/\/logos.skyscnr.com\/images\/airlines\/favicon\/UA.png",
+                                "name": "United"
+                            }
+                        ],
+                        "operationType": "fully_operated"
+                    },
+                    "segments": [
+                        {
+                            "id": "13993-12389-2502071740-2502071958--31722",
+                            "origin": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "destination": {
+                                "flightPlaceId": "IAH",
+                                "displayCode": "IAH",
+                                "parent": {
+                                    "flightPlaceId": "HOUA",
+                                    "displayCode": "HOU",
+                                    "name": "Houston",
+                                    "type": "City"
+                                },
+                                "name": "Houston George Bush Intercntl.",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "departure": "2025-02-07T17:40:00",
+                            "arrival": "2025-02-07T19:58:00",
+                            "durationInMinutes": 138,
+                            "flightNumber": "1025",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        },
+                        {
+                            "id": "12389-13902-2502080939-2502081400--31722",
+                            "origin": {
+                                "flightPlaceId": "IAH",
+                                "displayCode": "IAH",
+                                "parent": {
+                                    "flightPlaceId": "HOUA",
+                                    "displayCode": "HOU",
+                                    "name": "Houston",
+                                    "type": "City"
+                                },
+                                "name": "Houston George Bush Intercntl.",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "destination": {
+                                "flightPlaceId": "MBJ",
+                                "displayCode": "MBJ",
+                                "parent": {
+                                    "flightPlaceId": "MBJA",
+                                    "displayCode": "MBJ",
+                                    "name": "Montego Bay",
+                                    "type": "City"
+                                },
+                                "name": "Montego Bay",
+                                "type": "Airport",
+                                "country": "Jamaica"
+                            },
+                            "departure": "2025-02-08T09:39:00",
+                            "arrival": "2025-02-08T14:00:00",
+                            "durationInMinutes": 201,
+                            "flightNumber": "1163",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "13902-2502271448--31722-1-13993-2502280010",
+                    "origin": {
+                        "id": "MBJ",
+                        "entityId": "99539667",
+                        "name": "Montego Bay",
+                        "displayCode": "MBJ",
+                        "city": "Montego Bay",
+                        "country": "Jamaica",
+                        "isHighlighted": false
+                    },
+                    "destination": {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International",
+                        "displayCode": "MEX",
+                        "city": "Mexico City",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "durationInMinutes": 622,
+                    "stopCount": 1,
+                    "isSmallestStops": false,
+                    "departure": "2025-02-27T14:48:00",
+                    "arrival": "2025-02-28T00:10:00",
+                    "timeDeltaInDays": 1,
+                    "carriers": {
+                        "marketing": [
+                            {
+                                "id": -31722,
+                                "alternateId": "UA",
+                                "logoUrl": "https:\/\/logos.skyscnr.com\/images\/airlines\/favicon\/UA.png",
+                                "name": "United"
+                            }
+                        ],
+                        "operationType": "fully_operated"
+                    },
+                    "segments": [
+                        {
+                            "id": "13902-15062-2502271448-2502271810--31722",
+                            "origin": {
+                                "flightPlaceId": "MBJ",
+                                "displayCode": "MBJ",
+                                "parent": {
+                                    "flightPlaceId": "MBJA",
+                                    "displayCode": "MBJ",
+                                    "name": "Montego Bay",
+                                    "type": "City"
+                                },
+                                "name": "Montego Bay",
+                                "type": "Airport",
+                                "country": "Jamaica"
+                            },
+                            "destination": {
+                                "flightPlaceId": "ORD",
+                                "displayCode": "ORD",
+                                "parent": {
+                                    "flightPlaceId": "CHIA",
+                                    "displayCode": "CHI",
+                                    "name": "Chicago",
+                                    "type": "City"
+                                },
+                                "name": "Chicago O'Hare International",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "departure": "2025-02-27T14:48:00",
+                            "arrival": "2025-02-27T18:10:00",
+                            "durationInMinutes": 262,
+                            "flightNumber": "1160",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        },
+                        {
+                            "id": "15062-13993-2502271940-2502280010--31722",
+                            "origin": {
+                                "flightPlaceId": "ORD",
+                                "displayCode": "ORD",
+                                "parent": {
+                                    "flightPlaceId": "CHIA",
+                                    "displayCode": "CHI",
+                                    "name": "Chicago",
+                                    "type": "City"
+                                },
+                                "name": "Chicago O'Hare International",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "destination": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "departure": "2025-02-27T19:40:00",
+                            "arrival": "2025-02-28T00:10:00",
+                            "durationInMinutes": 270,
+                            "flightNumber": "1547",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
+                }
+            ],
+            "isSelfTransfer": false,
+            "isProtectedSelfTransfer": false,
+            "farePolicy": {
+                "isChangeAllowed": false,
+                "isPartiallyChangeable": false,
+                "isCancellationAllowed": false,
+                "isPartiallyRefundable": false
+            },
+            "fareAttributes": [],
+            "tags": [
+                "second_shortest"
+            ],
+            "isMashUp": false,
+            "hasFlexibleOptions": false,
+            "score": 0.8059
+        },
+        {
+            "id": "13993-2502071515--31722-2-13902-2502081220|13902-2502271555--31722-1-13993-2502281120",
+            "price": {
+                "raw": 2212.96,
+                "formatted": "$2,213",
+                "pricingOptionId": "cgdulu0uAgvx"
+            },
+            "legs": [
+                {
+                    "id": "13993-2502071515--31722-2-13902-2502081220",
+                    "origin": {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International",
+                        "displayCode": "MEX",
+                        "city": "Mexico City",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "destination": {
+                        "id": "MBJ",
+                        "entityId": "99539667",
+                        "name": "Montego Bay",
+                        "displayCode": "MBJ",
+                        "city": "Montego Bay",
+                        "country": "Jamaica",
+                        "isHighlighted": false
+                    },
+                    "durationInMinutes": 1205,
+                    "stopCount": 2,
+                    "isSmallestStops": false,
+                    "departure": "2025-02-07T15:15:00",
+                    "arrival": "2025-02-08T12:20:00",
+                    "timeDeltaInDays": 1,
+                    "carriers": {
+                        "marketing": [
+                            {
+                                "id": -31722,
+                                "alternateId": "UA",
+                                "logoUrl": "https:\/\/logos.skyscnr.com\/images\/airlines\/favicon\/UA.png",
+                                "name": "United"
+                            }
+                        ],
+                        "operationType": "fully_operated"
+                    },
+                    "segments": [
+                        {
+                            "id": "13993-12389-2502071515-2502071733--31722",
+                            "origin": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "destination": {
+                                "flightPlaceId": "IAH",
+                                "displayCode": "IAH",
+                                "parent": {
+                                    "flightPlaceId": "HOUA",
+                                    "displayCode": "HOU",
+                                    "name": "Houston",
+                                    "type": "City"
+                                },
+                                "name": "Houston George Bush Intercntl.",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "departure": "2025-02-07T15:15:00",
+                            "arrival": "2025-02-07T17:33:00",
+                            "durationInMinutes": 138,
+                            "flightNumber": "1838",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        },
+                        {
+                            "id": "12389-11442-2502072017-2502080046--31722",
+                            "origin": {
+                                "flightPlaceId": "IAH",
+                                "displayCode": "IAH",
+                                "parent": {
+                                    "flightPlaceId": "HOUA",
+                                    "displayCode": "HOU",
+                                    "name": "Houston",
+                                    "type": "City"
+                                },
+                                "name": "Houston George Bush Intercntl.",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "destination": {
+                                "flightPlaceId": "EWR",
+                                "displayCode": "EWR",
+                                "parent": {
+                                    "flightPlaceId": "NYCA",
+                                    "displayCode": "NYC",
+                                    "name": "New York",
+                                    "type": "City"
+                                },
+                                "name": "New York Newark",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "departure": "2025-02-07T20:17:00",
+                            "arrival": "2025-02-08T00:46:00",
+                            "durationInMinutes": 209,
+                            "flightNumber": "1444",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        },
+                        {
+                            "id": "11442-13902-2502080813-2502081220--31722",
+                            "origin": {
+                                "flightPlaceId": "EWR",
+                                "displayCode": "EWR",
+                                "parent": {
+                                    "flightPlaceId": "NYCA",
+                                    "displayCode": "NYC",
+                                    "name": "New York",
+                                    "type": "City"
+                                },
+                                "name": "New York Newark",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "destination": {
+                                "flightPlaceId": "MBJ",
+                                "displayCode": "MBJ",
+                                "parent": {
+                                    "flightPlaceId": "MBJA",
+                                    "displayCode": "MBJ",
+                                    "name": "Montego Bay",
+                                    "type": "City"
+                                },
+                                "name": "Montego Bay",
+                                "type": "Airport",
+                                "country": "Jamaica"
+                            },
+                            "departure": "2025-02-08T08:13:00",
+                            "arrival": "2025-02-08T12:20:00",
+                            "durationInMinutes": 247,
+                            "flightNumber": "2126",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "13902-2502271555--31722-1-13993-2502281120",
+                    "origin": {
+                        "id": "MBJ",
+                        "entityId": "99539667",
+                        "name": "Montego Bay",
+                        "displayCode": "MBJ",
+                        "city": "Montego Bay",
+                        "country": "Jamaica",
+                        "isHighlighted": false
+                    },
+                    "destination": {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International",
+                        "displayCode": "MEX",
+                        "city": "Mexico City",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "durationInMinutes": 1225,
+                    "stopCount": 1,
+                    "isSmallestStops": false,
+                    "departure": "2025-02-27T15:55:00",
+                    "arrival": "2025-02-28T11:20:00",
+                    "timeDeltaInDays": 1,
+                    "carriers": {
+                        "marketing": [
+                            {
+                                "id": -31722,
+                                "alternateId": "UA",
+                                "logoUrl": "https:\/\/logos.skyscnr.com\/images\/airlines\/favicon\/UA.png",
+                                "name": "United"
+                            }
+                        ],
+                        "operationType": "fully_operated"
+                    },
+                    "segments": [
+                        {
+                            "id": "13902-11442-2502271555-2502271954--31722",
+                            "origin": {
+                                "flightPlaceId": "MBJ",
+                                "displayCode": "MBJ",
+                                "parent": {
+                                    "flightPlaceId": "MBJA",
+                                    "displayCode": "MBJ",
+                                    "name": "Montego Bay",
+                                    "type": "City"
+                                },
+                                "name": "Montego Bay",
+                                "type": "Airport",
+                                "country": "Jamaica"
+                            },
+                            "destination": {
+                                "flightPlaceId": "EWR",
+                                "displayCode": "EWR",
+                                "parent": {
+                                    "flightPlaceId": "NYCA",
+                                    "displayCode": "NYC",
+                                    "name": "New York",
+                                    "type": "City"
+                                },
+                                "name": "New York Newark",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "departure": "2025-02-27T15:55:00",
+                            "arrival": "2025-02-27T19:54:00",
+                            "durationInMinutes": 239,
+                            "flightNumber": "1206",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        },
+                        {
+                            "id": "11442-13993-2502280641-2502281120--31722",
+                            "origin": {
+                                "flightPlaceId": "EWR",
+                                "displayCode": "EWR",
+                                "parent": {
+                                    "flightPlaceId": "NYCA",
+                                    "displayCode": "NYC",
+                                    "name": "New York",
+                                    "type": "City"
+                                },
+                                "name": "New York Newark",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "destination": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "departure": "2025-02-28T06:41:00",
+                            "arrival": "2025-02-28T11:20:00",
+                            "durationInMinutes": 339,
+                            "flightNumber": "2251",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
+                }
+            ],
+            "isSelfTransfer": false,
+            "isProtectedSelfTransfer": false,
+            "farePolicy": {
+                "isChangeAllowed": false,
+                "isPartiallyChangeable": false,
+                "isCancellationAllowed": false,
+                "isPartiallyRefundable": false
+            },
+            "fareAttributes": [],
+            "tags": [
+                "cheapest"
+            ],
+            "isMashUp": false,
+            "hasFlexibleOptions": false,
+            "score": 0.688559
+        },
+        {
+            "id": "13993-2502071215--31722-2-13902-2502081220|13902-2502271448--31722-1-13993-2502280010",
+            "price": {
+                "raw": 2333.56,
+                "formatted": "$2,334",
+                "pricingOptionId": "kLI9xVhxWbxl"
+            },
+            "legs": [
+                {
+                    "id": "13993-2502071215--31722-2-13902-2502081220",
+                    "origin": {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International",
+                        "displayCode": "MEX",
+                        "city": "Mexico City",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "destination": {
+                        "id": "MBJ",
+                        "entityId": "99539667",
+                        "name": "Montego Bay",
+                        "displayCode": "MBJ",
+                        "city": "Montego Bay",
+                        "country": "Jamaica",
+                        "isHighlighted": false
+                    },
+                    "durationInMinutes": 1385,
+                    "stopCount": 2,
+                    "isSmallestStops": false,
+                    "departure": "2025-02-07T12:15:00",
+                    "arrival": "2025-02-08T12:20:00",
+                    "timeDeltaInDays": 1,
+                    "carriers": {
+                        "marketing": [
+                            {
+                                "id": -31722,
+                                "alternateId": "UA",
+                                "logoUrl": "https:\/\/logos.skyscnr.com\/images\/airlines\/favicon\/UA.png",
+                                "name": "United"
+                            }
+                        ],
+                        "operationType": "fully_operated"
+                    },
+                    "segments": [
+                        {
+                            "id": "13993-12389-2502071215-2502071432--31722",
+                            "origin": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "destination": {
+                                "flightPlaceId": "IAH",
+                                "displayCode": "IAH",
+                                "parent": {
+                                    "flightPlaceId": "HOUA",
+                                    "displayCode": "HOU",
+                                    "name": "Houston",
+                                    "type": "City"
+                                },
+                                "name": "Houston George Bush Intercntl.",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "departure": "2025-02-07T12:15:00",
+                            "arrival": "2025-02-07T14:32:00",
+                            "durationInMinutes": 137,
+                            "flightNumber": "1091",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        },
+                        {
+                            "id": "12389-11442-2502072017-2502080046--31722",
+                            "origin": {
+                                "flightPlaceId": "IAH",
+                                "displayCode": "IAH",
+                                "parent": {
+                                    "flightPlaceId": "HOUA",
+                                    "displayCode": "HOU",
+                                    "name": "Houston",
+                                    "type": "City"
+                                },
+                                "name": "Houston George Bush Intercntl.",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "destination": {
+                                "flightPlaceId": "EWR",
+                                "displayCode": "EWR",
+                                "parent": {
+                                    "flightPlaceId": "NYCA",
+                                    "displayCode": "NYC",
+                                    "name": "New York",
+                                    "type": "City"
+                                },
+                                "name": "New York Newark",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "departure": "2025-02-07T20:17:00",
+                            "arrival": "2025-02-08T00:46:00",
+                            "durationInMinutes": 209,
+                            "flightNumber": "1444",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        },
+                        {
+                            "id": "11442-13902-2502080813-2502081220--31722",
+                            "origin": {
+                                "flightPlaceId": "EWR",
+                                "displayCode": "EWR",
+                                "parent": {
+                                    "flightPlaceId": "NYCA",
+                                    "displayCode": "NYC",
+                                    "name": "New York",
+                                    "type": "City"
+                                },
+                                "name": "New York Newark",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "destination": {
+                                "flightPlaceId": "MBJ",
+                                "displayCode": "MBJ",
+                                "parent": {
+                                    "flightPlaceId": "MBJA",
+                                    "displayCode": "MBJ",
+                                    "name": "Montego Bay",
+                                    "type": "City"
+                                },
+                                "name": "Montego Bay",
+                                "type": "Airport",
+                                "country": "Jamaica"
+                            },
+                            "departure": "2025-02-08T08:13:00",
+                            "arrival": "2025-02-08T12:20:00",
+                            "durationInMinutes": 247,
+                            "flightNumber": "2126",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "13902-2502271448--31722-1-13993-2502280010",
+                    "origin": {
+                        "id": "MBJ",
+                        "entityId": "99539667",
+                        "name": "Montego Bay",
+                        "displayCode": "MBJ",
+                        "city": "Montego Bay",
+                        "country": "Jamaica",
+                        "isHighlighted": false
+                    },
+                    "destination": {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International",
+                        "displayCode": "MEX",
+                        "city": "Mexico City",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "durationInMinutes": 622,
+                    "stopCount": 1,
+                    "isSmallestStops": false,
+                    "departure": "2025-02-27T14:48:00",
+                    "arrival": "2025-02-28T00:10:00",
+                    "timeDeltaInDays": 1,
+                    "carriers": {
+                        "marketing": [
+                            {
+                                "id": -31722,
+                                "alternateId": "UA",
+                                "logoUrl": "https:\/\/logos.skyscnr.com\/images\/airlines\/favicon\/UA.png",
+                                "name": "United"
+                            }
+                        ],
+                        "operationType": "fully_operated"
+                    },
+                    "segments": [
+                        {
+                            "id": "13902-15062-2502271448-2502271810--31722",
+                            "origin": {
+                                "flightPlaceId": "MBJ",
+                                "displayCode": "MBJ",
+                                "parent": {
+                                    "flightPlaceId": "MBJA",
+                                    "displayCode": "MBJ",
+                                    "name": "Montego Bay",
+                                    "type": "City"
+                                },
+                                "name": "Montego Bay",
+                                "type": "Airport",
+                                "country": "Jamaica"
+                            },
+                            "destination": {
+                                "flightPlaceId": "ORD",
+                                "displayCode": "ORD",
+                                "parent": {
+                                    "flightPlaceId": "CHIA",
+                                    "displayCode": "CHI",
+                                    "name": "Chicago",
+                                    "type": "City"
+                                },
+                                "name": "Chicago O'Hare International",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "departure": "2025-02-27T14:48:00",
+                            "arrival": "2025-02-27T18:10:00",
+                            "durationInMinutes": 262,
+                            "flightNumber": "1160",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        },
+                        {
+                            "id": "15062-13993-2502271940-2502280010--31722",
+                            "origin": {
+                                "flightPlaceId": "ORD",
+                                "displayCode": "ORD",
+                                "parent": {
+                                    "flightPlaceId": "CHIA",
+                                    "displayCode": "CHI",
+                                    "name": "Chicago",
+                                    "type": "City"
+                                },
+                                "name": "Chicago O'Hare International",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "destination": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "departure": "2025-02-27T19:40:00",
+                            "arrival": "2025-02-28T00:10:00",
+                            "durationInMinutes": 270,
+                            "flightNumber": "1547",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
+                }
+            ],
+            "isSelfTransfer": false,
+            "isProtectedSelfTransfer": false,
+            "farePolicy": {
+                "isChangeAllowed": false,
+                "isPartiallyChangeable": false,
+                "isCancellationAllowed": false,
+                "isPartiallyRefundable": false
+            },
+            "fareAttributes": [],
+            "isMashUp": false,
+            "hasFlexibleOptions": false,
+            "score": 0.687787
+        },
+        {
+            "id": "13993-2502071515--31722-2-13902-2502081220|13902-2502271325--31722-2-13993-2502281005",
+            "price": {
+                "raw": 2221.96,
+                "formatted": "$2,222",
+                "pricingOptionId": "ujnd12FTr_4o"
+            },
+            "legs": [
+                {
+                    "id": "13993-2502071515--31722-2-13902-2502081220",
+                    "origin": {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International",
+                        "displayCode": "MEX",
+                        "city": "Mexico City",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "destination": {
+                        "id": "MBJ",
+                        "entityId": "99539667",
+                        "name": "Montego Bay",
+                        "displayCode": "MBJ",
+                        "city": "Montego Bay",
+                        "country": "Jamaica",
+                        "isHighlighted": false
+                    },
+                    "durationInMinutes": 1205,
+                    "stopCount": 2,
+                    "isSmallestStops": false,
+                    "departure": "2025-02-07T15:15:00",
+                    "arrival": "2025-02-08T12:20:00",
+                    "timeDeltaInDays": 1,
+                    "carriers": {
+                        "marketing": [
+                            {
+                                "id": -31722,
+                                "alternateId": "UA",
+                                "logoUrl": "https:\/\/logos.skyscnr.com\/images\/airlines\/favicon\/UA.png",
+                                "name": "United"
+                            }
+                        ],
+                        "operationType": "fully_operated"
+                    },
+                    "segments": [
+                        {
+                            "id": "13993-12389-2502071515-2502071733--31722",
+                            "origin": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "destination": {
+                                "flightPlaceId": "IAH",
+                                "displayCode": "IAH",
+                                "parent": {
+                                    "flightPlaceId": "HOUA",
+                                    "displayCode": "HOU",
+                                    "name": "Houston",
+                                    "type": "City"
+                                },
+                                "name": "Houston George Bush Intercntl.",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "departure": "2025-02-07T15:15:00",
+                            "arrival": "2025-02-07T17:33:00",
+                            "durationInMinutes": 138,
+                            "flightNumber": "1838",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        },
+                        {
+                            "id": "12389-11442-2502072017-2502080046--31722",
+                            "origin": {
+                                "flightPlaceId": "IAH",
+                                "displayCode": "IAH",
+                                "parent": {
+                                    "flightPlaceId": "HOUA",
+                                    "displayCode": "HOU",
+                                    "name": "Houston",
+                                    "type": "City"
+                                },
+                                "name": "Houston George Bush Intercntl.",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "destination": {
+                                "flightPlaceId": "EWR",
+                                "displayCode": "EWR",
+                                "parent": {
+                                    "flightPlaceId": "NYCA",
+                                    "displayCode": "NYC",
+                                    "name": "New York",
+                                    "type": "City"
+                                },
+                                "name": "New York Newark",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "departure": "2025-02-07T20:17:00",
+                            "arrival": "2025-02-08T00:46:00",
+                            "durationInMinutes": 209,
+                            "flightNumber": "1444",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        },
+                        {
+                            "id": "11442-13902-2502080813-2502081220--31722",
+                            "origin": {
+                                "flightPlaceId": "EWR",
+                                "displayCode": "EWR",
+                                "parent": {
+                                    "flightPlaceId": "NYCA",
+                                    "displayCode": "NYC",
+                                    "name": "New York",
+                                    "type": "City"
+                                },
+                                "name": "New York Newark",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "destination": {
+                                "flightPlaceId": "MBJ",
+                                "displayCode": "MBJ",
+                                "parent": {
+                                    "flightPlaceId": "MBJA",
+                                    "displayCode": "MBJ",
+                                    "name": "Montego Bay",
+                                    "type": "City"
+                                },
+                                "name": "Montego Bay",
+                                "type": "Airport",
+                                "country": "Jamaica"
+                            },
+                            "departure": "2025-02-08T08:13:00",
+                            "arrival": "2025-02-08T12:20:00",
+                            "durationInMinutes": 247,
+                            "flightNumber": "2126",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "13902-2502271325--31722-2-13993-2502281005",
+                    "origin": {
+                        "id": "MBJ",
+                        "entityId": "99539667",
+                        "name": "Montego Bay",
+                        "displayCode": "MBJ",
+                        "city": "Montego Bay",
+                        "country": "Jamaica",
+                        "isHighlighted": false
+                    },
+                    "destination": {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International",
+                        "displayCode": "MEX",
+                        "city": "Mexico City",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "durationInMinutes": 1300,
+                    "stopCount": 2,
+                    "isSmallestStops": false,
+                    "departure": "2025-02-27T13:25:00",
+                    "arrival": "2025-02-28T10:05:00",
+                    "timeDeltaInDays": 1,
+                    "carriers": {
+                        "marketing": [
+                            {
+                                "id": -31722,
+                                "alternateId": "UA",
+                                "logoUrl": "https:\/\/logos.skyscnr.com\/images\/airlines\/favicon\/UA.png",
+                                "name": "United"
+                            }
+                        ],
+                        "operationType": "fully_operated"
+                    },
+                    "segments": [
+                        {
+                            "id": "13902-11442-2502271325-2502271724--31722",
+                            "origin": {
+                                "flightPlaceId": "MBJ",
+                                "displayCode": "MBJ",
+                                "parent": {
+                                    "flightPlaceId": "MBJA",
+                                    "displayCode": "MBJ",
+                                    "name": "Montego Bay",
+                                    "type": "City"
+                                },
+                                "name": "Montego Bay",
+                                "type": "Airport",
+                                "country": "Jamaica"
+                            },
+                            "destination": {
+                                "flightPlaceId": "EWR",
+                                "displayCode": "EWR",
+                                "parent": {
+                                    "flightPlaceId": "NYCA",
+                                    "displayCode": "NYC",
+                                    "name": "New York",
+                                    "type": "City"
+                                },
+                                "name": "New York Newark",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "departure": "2025-02-27T13:25:00",
+                            "arrival": "2025-02-27T17:24:00",
+                            "durationInMinutes": 239,
+                            "flightNumber": "1628",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        },
+                        {
+                            "id": "11442-12389-2502272105-2502280015--31722",
+                            "origin": {
+                                "flightPlaceId": "EWR",
+                                "displayCode": "EWR",
+                                "parent": {
+                                    "flightPlaceId": "NYCA",
+                                    "displayCode": "NYC",
+                                    "name": "New York",
+                                    "type": "City"
+                                },
+                                "name": "New York Newark",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "destination": {
+                                "flightPlaceId": "IAH",
+                                "displayCode": "IAH",
+                                "parent": {
+                                    "flightPlaceId": "HOUA",
+                                    "displayCode": "HOU",
+                                    "name": "Houston",
+                                    "type": "City"
+                                },
+                                "name": "Houston George Bush Intercntl.",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "departure": "2025-02-27T21:05:00",
+                            "arrival": "2025-02-28T00:15:00",
+                            "durationInMinutes": 250,
+                            "flightNumber": "2425",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        },
+                        {
+                            "id": "12389-13993-2502280734-2502281005--31722",
+                            "origin": {
+                                "flightPlaceId": "IAH",
+                                "displayCode": "IAH",
+                                "parent": {
+                                    "flightPlaceId": "HOUA",
+                                    "displayCode": "HOU",
+                                    "name": "Houston",
+                                    "type": "City"
+                                },
+                                "name": "Houston George Bush Intercntl.",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "destination": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "departure": "2025-02-28T07:34:00",
+                            "arrival": "2025-02-28T10:05:00",
+                            "durationInMinutes": 151,
+                            "flightNumber": "1024",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
+                }
+            ],
+            "isSelfTransfer": false,
+            "isProtectedSelfTransfer": false,
+            "farePolicy": {
+                "isChangeAllowed": false,
+                "isPartiallyChangeable": false,
+                "isCancellationAllowed": false,
+                "isPartiallyRefundable": false
+            },
+            "fareAttributes": [],
+            "tags": [
+                "third_cheapest"
+            ],
+            "isMashUp": false,
+            "hasFlexibleOptions": false,
+            "score": 0.674883
+        },
+        {
+            "id": "13993-2502071215--31722-2-13902-2502081220|13902-2502271555--31722-1-13993-2502281120",
+            "price": {
+                "raw": 2212.96,
+                "formatted": "$2,213",
+                "pricingOptionId": "ZWzlfz3jWg8V"
+            },
+            "legs": [
+                {
+                    "id": "13993-2502071215--31722-2-13902-2502081220",
+                    "origin": {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International",
+                        "displayCode": "MEX",
+                        "city": "Mexico City",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "destination": {
+                        "id": "MBJ",
+                        "entityId": "99539667",
+                        "name": "Montego Bay",
+                        "displayCode": "MBJ",
+                        "city": "Montego Bay",
+                        "country": "Jamaica",
+                        "isHighlighted": false
+                    },
+                    "durationInMinutes": 1385,
+                    "stopCount": 2,
+                    "isSmallestStops": false,
+                    "departure": "2025-02-07T12:15:00",
+                    "arrival": "2025-02-08T12:20:00",
+                    "timeDeltaInDays": 1,
+                    "carriers": {
+                        "marketing": [
+                            {
+                                "id": -31722,
+                                "alternateId": "UA",
+                                "logoUrl": "https:\/\/logos.skyscnr.com\/images\/airlines\/favicon\/UA.png",
+                                "name": "United"
+                            }
+                        ],
+                        "operationType": "fully_operated"
+                    },
+                    "segments": [
+                        {
+                            "id": "13993-12389-2502071215-2502071432--31722",
+                            "origin": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "destination": {
+                                "flightPlaceId": "IAH",
+                                "displayCode": "IAH",
+                                "parent": {
+                                    "flightPlaceId": "HOUA",
+                                    "displayCode": "HOU",
+                                    "name": "Houston",
+                                    "type": "City"
+                                },
+                                "name": "Houston George Bush Intercntl.",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "departure": "2025-02-07T12:15:00",
+                            "arrival": "2025-02-07T14:32:00",
+                            "durationInMinutes": 137,
+                            "flightNumber": "1091",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        },
+                        {
+                            "id": "12389-11442-2502072017-2502080046--31722",
+                            "origin": {
+                                "flightPlaceId": "IAH",
+                                "displayCode": "IAH",
+                                "parent": {
+                                    "flightPlaceId": "HOUA",
+                                    "displayCode": "HOU",
+                                    "name": "Houston",
+                                    "type": "City"
+                                },
+                                "name": "Houston George Bush Intercntl.",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "destination": {
+                                "flightPlaceId": "EWR",
+                                "displayCode": "EWR",
+                                "parent": {
+                                    "flightPlaceId": "NYCA",
+                                    "displayCode": "NYC",
+                                    "name": "New York",
+                                    "type": "City"
+                                },
+                                "name": "New York Newark",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "departure": "2025-02-07T20:17:00",
+                            "arrival": "2025-02-08T00:46:00",
+                            "durationInMinutes": 209,
+                            "flightNumber": "1444",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        },
+                        {
+                            "id": "11442-13902-2502080813-2502081220--31722",
+                            "origin": {
+                                "flightPlaceId": "EWR",
+                                "displayCode": "EWR",
+                                "parent": {
+                                    "flightPlaceId": "NYCA",
+                                    "displayCode": "NYC",
+                                    "name": "New York",
+                                    "type": "City"
+                                },
+                                "name": "New York Newark",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "destination": {
+                                "flightPlaceId": "MBJ",
+                                "displayCode": "MBJ",
+                                "parent": {
+                                    "flightPlaceId": "MBJA",
+                                    "displayCode": "MBJ",
+                                    "name": "Montego Bay",
+                                    "type": "City"
+                                },
+                                "name": "Montego Bay",
+                                "type": "Airport",
+                                "country": "Jamaica"
+                            },
+                            "departure": "2025-02-08T08:13:00",
+                            "arrival": "2025-02-08T12:20:00",
+                            "durationInMinutes": 247,
+                            "flightNumber": "2126",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "13902-2502271555--31722-1-13993-2502281120",
+                    "origin": {
+                        "id": "MBJ",
+                        "entityId": "99539667",
+                        "name": "Montego Bay",
+                        "displayCode": "MBJ",
+                        "city": "Montego Bay",
+                        "country": "Jamaica",
+                        "isHighlighted": false
+                    },
+                    "destination": {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International",
+                        "displayCode": "MEX",
+                        "city": "Mexico City",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "durationInMinutes": 1225,
+                    "stopCount": 1,
+                    "isSmallestStops": false,
+                    "departure": "2025-02-27T15:55:00",
+                    "arrival": "2025-02-28T11:20:00",
+                    "timeDeltaInDays": 1,
+                    "carriers": {
+                        "marketing": [
+                            {
+                                "id": -31722,
+                                "alternateId": "UA",
+                                "logoUrl": "https:\/\/logos.skyscnr.com\/images\/airlines\/favicon\/UA.png",
+                                "name": "United"
+                            }
+                        ],
+                        "operationType": "fully_operated"
+                    },
+                    "segments": [
+                        {
+                            "id": "13902-11442-2502271555-2502271954--31722",
+                            "origin": {
+                                "flightPlaceId": "MBJ",
+                                "displayCode": "MBJ",
+                                "parent": {
+                                    "flightPlaceId": "MBJA",
+                                    "displayCode": "MBJ",
+                                    "name": "Montego Bay",
+                                    "type": "City"
+                                },
+                                "name": "Montego Bay",
+                                "type": "Airport",
+                                "country": "Jamaica"
+                            },
+                            "destination": {
+                                "flightPlaceId": "EWR",
+                                "displayCode": "EWR",
+                                "parent": {
+                                    "flightPlaceId": "NYCA",
+                                    "displayCode": "NYC",
+                                    "name": "New York",
+                                    "type": "City"
+                                },
+                                "name": "New York Newark",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "departure": "2025-02-27T15:55:00",
+                            "arrival": "2025-02-27T19:54:00",
+                            "durationInMinutes": 239,
+                            "flightNumber": "1206",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        },
+                        {
+                            "id": "11442-13993-2502280641-2502281120--31722",
+                            "origin": {
+                                "flightPlaceId": "EWR",
+                                "displayCode": "EWR",
+                                "parent": {
+                                    "flightPlaceId": "NYCA",
+                                    "displayCode": "NYC",
+                                    "name": "New York",
+                                    "type": "City"
+                                },
+                                "name": "New York Newark",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "destination": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "departure": "2025-02-28T06:41:00",
+                            "arrival": "2025-02-28T11:20:00",
+                            "durationInMinutes": 339,
+                            "flightNumber": "2251",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
+                }
+            ],
+            "isSelfTransfer": false,
+            "isProtectedSelfTransfer": false,
+            "farePolicy": {
+                "isChangeAllowed": false,
+                "isPartiallyChangeable": false,
+                "isCancellationAllowed": false,
+                "isPartiallyRefundable": false
+            },
+            "fareAttributes": [],
+            "tags": [
+                "second_cheapest"
+            ],
+            "isMashUp": false,
+            "hasFlexibleOptions": false,
+            "score": 0.661063
+        },
+        {
+            "id": "13993-2502071740--31722-2-13902-2502081346|13902-2502271555--31722-1-13993-2502281120",
+            "price": {
+                "raw": 2300.36,
+                "formatted": "$2,301",
+                "pricingOptionId": "jJSLwKk7-xZf"
+            },
+            "legs": [
+                {
+                    "id": "13993-2502071740--31722-2-13902-2502081346",
+                    "origin": {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International",
+                        "displayCode": "MEX",
+                        "city": "Mexico City",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "destination": {
+                        "id": "MBJ",
+                        "entityId": "99539667",
+                        "name": "Montego Bay",
+                        "displayCode": "MBJ",
+                        "city": "Montego Bay",
+                        "country": "Jamaica",
+                        "isHighlighted": false
+                    },
+                    "durationInMinutes": 1146,
+                    "stopCount": 2,
+                    "isSmallestStops": false,
+                    "departure": "2025-02-07T17:40:00",
+                    "arrival": "2025-02-08T13:46:00",
+                    "timeDeltaInDays": 1,
+                    "carriers": {
+                        "marketing": [
+                            {
+                                "id": -31722,
+                                "alternateId": "UA",
+                                "logoUrl": "https:\/\/logos.skyscnr.com\/images\/airlines\/favicon\/UA.png",
+                                "name": "United"
+                            }
+                        ],
+                        "operationType": "fully_operated"
+                    },
+                    "segments": [
+                        {
+                            "id": "13993-12389-2502071740-2502071958--31722",
+                            "origin": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "destination": {
+                                "flightPlaceId": "IAH",
+                                "displayCode": "IAH",
+                                "parent": {
+                                    "flightPlaceId": "HOUA",
+                                    "displayCode": "HOU",
+                                    "name": "Houston",
+                                    "type": "City"
+                                },
+                                "name": "Houston George Bush Intercntl.",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "departure": "2025-02-07T17:40:00",
+                            "arrival": "2025-02-07T19:58:00",
+                            "durationInMinutes": 138,
+                            "flightNumber": "1025",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        },
+                        {
+                            "id": "12389-15062-2502072136-2502080015--31722",
+                            "origin": {
+                                "flightPlaceId": "IAH",
+                                "displayCode": "IAH",
+                                "parent": {
+                                    "flightPlaceId": "HOUA",
+                                    "displayCode": "HOU",
+                                    "name": "Houston",
+                                    "type": "City"
+                                },
+                                "name": "Houston George Bush Intercntl.",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "destination": {
+                                "flightPlaceId": "ORD",
+                                "displayCode": "ORD",
+                                "parent": {
+                                    "flightPlaceId": "CHIA",
+                                    "displayCode": "CHI",
+                                    "name": "Chicago",
+                                    "type": "City"
+                                },
+                                "name": "Chicago O'Hare International",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "departure": "2025-02-07T21:36:00",
+                            "arrival": "2025-02-08T00:15:00",
+                            "durationInMinutes": 159,
+                            "flightNumber": "1858",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        },
+                        {
+                            "id": "15062-13902-2502080841-2502081346--31722",
+                            "origin": {
+                                "flightPlaceId": "ORD",
+                                "displayCode": "ORD",
+                                "parent": {
+                                    "flightPlaceId": "CHIA",
+                                    "displayCode": "CHI",
+                                    "name": "Chicago",
+                                    "type": "City"
+                                },
+                                "name": "Chicago O'Hare International",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "destination": {
+                                "flightPlaceId": "MBJ",
+                                "displayCode": "MBJ",
+                                "parent": {
+                                    "flightPlaceId": "MBJA",
+                                    "displayCode": "MBJ",
+                                    "name": "Montego Bay",
+                                    "type": "City"
+                                },
+                                "name": "Montego Bay",
+                                "type": "Airport",
+                                "country": "Jamaica"
+                            },
+                            "departure": "2025-02-08T08:41:00",
+                            "arrival": "2025-02-08T13:46:00",
+                            "durationInMinutes": 245,
+                            "flightNumber": "1146",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "13902-2502271555--31722-1-13993-2502281120",
+                    "origin": {
+                        "id": "MBJ",
+                        "entityId": "99539667",
+                        "name": "Montego Bay",
+                        "displayCode": "MBJ",
+                        "city": "Montego Bay",
+                        "country": "Jamaica",
+                        "isHighlighted": false
+                    },
+                    "destination": {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International",
+                        "displayCode": "MEX",
+                        "city": "Mexico City",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "durationInMinutes": 1225,
+                    "stopCount": 1,
+                    "isSmallestStops": false,
+                    "departure": "2025-02-27T15:55:00",
+                    "arrival": "2025-02-28T11:20:00",
+                    "timeDeltaInDays": 1,
+                    "carriers": {
+                        "marketing": [
+                            {
+                                "id": -31722,
+                                "alternateId": "UA",
+                                "logoUrl": "https:\/\/logos.skyscnr.com\/images\/airlines\/favicon\/UA.png",
+                                "name": "United"
+                            }
+                        ],
+                        "operationType": "fully_operated"
+                    },
+                    "segments": [
+                        {
+                            "id": "13902-11442-2502271555-2502271954--31722",
+                            "origin": {
+                                "flightPlaceId": "MBJ",
+                                "displayCode": "MBJ",
+                                "parent": {
+                                    "flightPlaceId": "MBJA",
+                                    "displayCode": "MBJ",
+                                    "name": "Montego Bay",
+                                    "type": "City"
+                                },
+                                "name": "Montego Bay",
+                                "type": "Airport",
+                                "country": "Jamaica"
+                            },
+                            "destination": {
+                                "flightPlaceId": "EWR",
+                                "displayCode": "EWR",
+                                "parent": {
+                                    "flightPlaceId": "NYCA",
+                                    "displayCode": "NYC",
+                                    "name": "New York",
+                                    "type": "City"
+                                },
+                                "name": "New York Newark",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "departure": "2025-02-27T15:55:00",
+                            "arrival": "2025-02-27T19:54:00",
+                            "durationInMinutes": 239,
+                            "flightNumber": "1206",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        },
+                        {
+                            "id": "11442-13993-2502280641-2502281120--31722",
+                            "origin": {
+                                "flightPlaceId": "EWR",
+                                "displayCode": "EWR",
+                                "parent": {
+                                    "flightPlaceId": "NYCA",
+                                    "displayCode": "NYC",
+                                    "name": "New York",
+                                    "type": "City"
+                                },
+                                "name": "New York Newark",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "destination": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "departure": "2025-02-28T06:41:00",
+                            "arrival": "2025-02-28T11:20:00",
+                            "durationInMinutes": 339,
+                            "flightNumber": "2251",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
+                }
+            ],
+            "isSelfTransfer": false,
+            "isProtectedSelfTransfer": false,
+            "farePolicy": {
+                "isChangeAllowed": false,
+                "isPartiallyChangeable": false,
+                "isCancellationAllowed": false,
+                "isPartiallyRefundable": false
+            },
+            "fareAttributes": [],
+            "isMashUp": false,
+            "hasFlexibleOptions": false,
+            "score": 0.655735
+        },
+        {
+            "id": "13993-2502071515--31722-1-13902-2502081400|13902-2502271448--31722-1-13993-2502280010",
+            "price": {
+                "raw": 2503.56,
+                "formatted": "$2,504",
+                "pricingOptionId": "aovCaHsiTbnk"
+            },
+            "legs": [
+                {
+                    "id": "13993-2502071515--31722-1-13902-2502081400",
+                    "origin": {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International",
+                        "displayCode": "MEX",
+                        "city": "Mexico City",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "destination": {
+                        "id": "MBJ",
+                        "entityId": "99539667",
+                        "name": "Montego Bay",
+                        "displayCode": "MBJ",
+                        "city": "Montego Bay",
+                        "country": "Jamaica",
+                        "isHighlighted": false
+                    },
+                    "durationInMinutes": 1305,
+                    "stopCount": 1,
+                    "isSmallestStops": false,
+                    "departure": "2025-02-07T15:15:00",
+                    "arrival": "2025-02-08T14:00:00",
+                    "timeDeltaInDays": 1,
+                    "carriers": {
+                        "marketing": [
+                            {
+                                "id": -31722,
+                                "alternateId": "UA",
+                                "logoUrl": "https:\/\/logos.skyscnr.com\/images\/airlines\/favicon\/UA.png",
+                                "name": "United"
+                            }
+                        ],
+                        "operationType": "fully_operated"
+                    },
+                    "segments": [
+                        {
+                            "id": "13993-12389-2502071515-2502071733--31722",
+                            "origin": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "destination": {
+                                "flightPlaceId": "IAH",
+                                "displayCode": "IAH",
+                                "parent": {
+                                    "flightPlaceId": "HOUA",
+                                    "displayCode": "HOU",
+                                    "name": "Houston",
+                                    "type": "City"
+                                },
+                                "name": "Houston George Bush Intercntl.",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "departure": "2025-02-07T15:15:00",
+                            "arrival": "2025-02-07T17:33:00",
+                            "durationInMinutes": 138,
+                            "flightNumber": "1838",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        },
+                        {
+                            "id": "12389-13902-2502080939-2502081400--31722",
+                            "origin": {
+                                "flightPlaceId": "IAH",
+                                "displayCode": "IAH",
+                                "parent": {
+                                    "flightPlaceId": "HOUA",
+                                    "displayCode": "HOU",
+                                    "name": "Houston",
+                                    "type": "City"
+                                },
+                                "name": "Houston George Bush Intercntl.",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "destination": {
+                                "flightPlaceId": "MBJ",
+                                "displayCode": "MBJ",
+                                "parent": {
+                                    "flightPlaceId": "MBJA",
+                                    "displayCode": "MBJ",
+                                    "name": "Montego Bay",
+                                    "type": "City"
+                                },
+                                "name": "Montego Bay",
+                                "type": "Airport",
+                                "country": "Jamaica"
+                            },
+                            "departure": "2025-02-08T09:39:00",
+                            "arrival": "2025-02-08T14:00:00",
+                            "durationInMinutes": 201,
+                            "flightNumber": "1163",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "13902-2502271448--31722-1-13993-2502280010",
+                    "origin": {
+                        "id": "MBJ",
+                        "entityId": "99539667",
+                        "name": "Montego Bay",
+                        "displayCode": "MBJ",
+                        "city": "Montego Bay",
+                        "country": "Jamaica",
+                        "isHighlighted": false
+                    },
+                    "destination": {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International",
+                        "displayCode": "MEX",
+                        "city": "Mexico City",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "durationInMinutes": 622,
+                    "stopCount": 1,
+                    "isSmallestStops": false,
+                    "departure": "2025-02-27T14:48:00",
+                    "arrival": "2025-02-28T00:10:00",
+                    "timeDeltaInDays": 1,
+                    "carriers": {
+                        "marketing": [
+                            {
+                                "id": -31722,
+                                "alternateId": "UA",
+                                "logoUrl": "https:\/\/logos.skyscnr.com\/images\/airlines\/favicon\/UA.png",
+                                "name": "United"
+                            }
+                        ],
+                        "operationType": "fully_operated"
+                    },
+                    "segments": [
+                        {
+                            "id": "13902-15062-2502271448-2502271810--31722",
+                            "origin": {
+                                "flightPlaceId": "MBJ",
+                                "displayCode": "MBJ",
+                                "parent": {
+                                    "flightPlaceId": "MBJA",
+                                    "displayCode": "MBJ",
+                                    "name": "Montego Bay",
+                                    "type": "City"
+                                },
+                                "name": "Montego Bay",
+                                "type": "Airport",
+                                "country": "Jamaica"
+                            },
+                            "destination": {
+                                "flightPlaceId": "ORD",
+                                "displayCode": "ORD",
+                                "parent": {
+                                    "flightPlaceId": "CHIA",
+                                    "displayCode": "CHI",
+                                    "name": "Chicago",
+                                    "type": "City"
+                                },
+                                "name": "Chicago O'Hare International",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "departure": "2025-02-27T14:48:00",
+                            "arrival": "2025-02-27T18:10:00",
+                            "durationInMinutes": 262,
+                            "flightNumber": "1160",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        },
+                        {
+                            "id": "15062-13993-2502271940-2502280010--31722",
+                            "origin": {
+                                "flightPlaceId": "ORD",
+                                "displayCode": "ORD",
+                                "parent": {
+                                    "flightPlaceId": "CHIA",
+                                    "displayCode": "CHI",
+                                    "name": "Chicago",
+                                    "type": "City"
+                                },
+                                "name": "Chicago O'Hare International",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "destination": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "departure": "2025-02-27T19:40:00",
+                            "arrival": "2025-02-28T00:10:00",
+                            "durationInMinutes": 270,
+                            "flightNumber": "1547",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
+                }
+            ],
+            "isSelfTransfer": false,
+            "isProtectedSelfTransfer": false,
+            "farePolicy": {
+                "isChangeAllowed": false,
+                "isPartiallyChangeable": false,
+                "isCancellationAllowed": false,
+                "isPartiallyRefundable": false
+            },
+            "fareAttributes": [],
+            "isMashUp": false,
+            "hasFlexibleOptions": false,
+            "score": 0.651135
+        },
+        {
+            "id": "13993-2502071215--31722-2-13902-2502081220|13902-2502271325--31722-2-13993-2502281005",
+            "price": {
+                "raw": 2221.96,
+                "formatted": "$2,222",
+                "pricingOptionId": "DavszLIGqCGR"
+            },
+            "legs": [
+                {
+                    "id": "13993-2502071215--31722-2-13902-2502081220",
+                    "origin": {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International",
+                        "displayCode": "MEX",
+                        "city": "Mexico City",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "destination": {
+                        "id": "MBJ",
+                        "entityId": "99539667",
+                        "name": "Montego Bay",
+                        "displayCode": "MBJ",
+                        "city": "Montego Bay",
+                        "country": "Jamaica",
+                        "isHighlighted": false
+                    },
+                    "durationInMinutes": 1385,
+                    "stopCount": 2,
+                    "isSmallestStops": false,
+                    "departure": "2025-02-07T12:15:00",
+                    "arrival": "2025-02-08T12:20:00",
+                    "timeDeltaInDays": 1,
+                    "carriers": {
+                        "marketing": [
+                            {
+                                "id": -31722,
+                                "alternateId": "UA",
+                                "logoUrl": "https:\/\/logos.skyscnr.com\/images\/airlines\/favicon\/UA.png",
+                                "name": "United"
+                            }
+                        ],
+                        "operationType": "fully_operated"
+                    },
+                    "segments": [
+                        {
+                            "id": "13993-12389-2502071215-2502071432--31722",
+                            "origin": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "destination": {
+                                "flightPlaceId": "IAH",
+                                "displayCode": "IAH",
+                                "parent": {
+                                    "flightPlaceId": "HOUA",
+                                    "displayCode": "HOU",
+                                    "name": "Houston",
+                                    "type": "City"
+                                },
+                                "name": "Houston George Bush Intercntl.",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "departure": "2025-02-07T12:15:00",
+                            "arrival": "2025-02-07T14:32:00",
+                            "durationInMinutes": 137,
+                            "flightNumber": "1091",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        },
+                        {
+                            "id": "12389-11442-2502072017-2502080046--31722",
+                            "origin": {
+                                "flightPlaceId": "IAH",
+                                "displayCode": "IAH",
+                                "parent": {
+                                    "flightPlaceId": "HOUA",
+                                    "displayCode": "HOU",
+                                    "name": "Houston",
+                                    "type": "City"
+                                },
+                                "name": "Houston George Bush Intercntl.",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "destination": {
+                                "flightPlaceId": "EWR",
+                                "displayCode": "EWR",
+                                "parent": {
+                                    "flightPlaceId": "NYCA",
+                                    "displayCode": "NYC",
+                                    "name": "New York",
+                                    "type": "City"
+                                },
+                                "name": "New York Newark",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "departure": "2025-02-07T20:17:00",
+                            "arrival": "2025-02-08T00:46:00",
+                            "durationInMinutes": 209,
+                            "flightNumber": "1444",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        },
+                        {
+                            "id": "11442-13902-2502080813-2502081220--31722",
+                            "origin": {
+                                "flightPlaceId": "EWR",
+                                "displayCode": "EWR",
+                                "parent": {
+                                    "flightPlaceId": "NYCA",
+                                    "displayCode": "NYC",
+                                    "name": "New York",
+                                    "type": "City"
+                                },
+                                "name": "New York Newark",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "destination": {
+                                "flightPlaceId": "MBJ",
+                                "displayCode": "MBJ",
+                                "parent": {
+                                    "flightPlaceId": "MBJA",
+                                    "displayCode": "MBJ",
+                                    "name": "Montego Bay",
+                                    "type": "City"
+                                },
+                                "name": "Montego Bay",
+                                "type": "Airport",
+                                "country": "Jamaica"
+                            },
+                            "departure": "2025-02-08T08:13:00",
+                            "arrival": "2025-02-08T12:20:00",
+                            "durationInMinutes": 247,
+                            "flightNumber": "2126",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "13902-2502271325--31722-2-13993-2502281005",
+                    "origin": {
+                        "id": "MBJ",
+                        "entityId": "99539667",
+                        "name": "Montego Bay",
+                        "displayCode": "MBJ",
+                        "city": "Montego Bay",
+                        "country": "Jamaica",
+                        "isHighlighted": false
+                    },
+                    "destination": {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International",
+                        "displayCode": "MEX",
+                        "city": "Mexico City",
+                        "country": "Mexico",
+                        "isHighlighted": false
+                    },
+                    "durationInMinutes": 1300,
+                    "stopCount": 2,
+                    "isSmallestStops": false,
+                    "departure": "2025-02-27T13:25:00",
+                    "arrival": "2025-02-28T10:05:00",
+                    "timeDeltaInDays": 1,
+                    "carriers": {
+                        "marketing": [
+                            {
+                                "id": -31722,
+                                "alternateId": "UA",
+                                "logoUrl": "https:\/\/logos.skyscnr.com\/images\/airlines\/favicon\/UA.png",
+                                "name": "United"
+                            }
+                        ],
+                        "operationType": "fully_operated"
+                    },
+                    "segments": [
+                        {
+                            "id": "13902-11442-2502271325-2502271724--31722",
+                            "origin": {
+                                "flightPlaceId": "MBJ",
+                                "displayCode": "MBJ",
+                                "parent": {
+                                    "flightPlaceId": "MBJA",
+                                    "displayCode": "MBJ",
+                                    "name": "Montego Bay",
+                                    "type": "City"
+                                },
+                                "name": "Montego Bay",
+                                "type": "Airport",
+                                "country": "Jamaica"
+                            },
+                            "destination": {
+                                "flightPlaceId": "EWR",
+                                "displayCode": "EWR",
+                                "parent": {
+                                    "flightPlaceId": "NYCA",
+                                    "displayCode": "NYC",
+                                    "name": "New York",
+                                    "type": "City"
+                                },
+                                "name": "New York Newark",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "departure": "2025-02-27T13:25:00",
+                            "arrival": "2025-02-27T17:24:00",
+                            "durationInMinutes": 239,
+                            "flightNumber": "1628",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        },
+                        {
+                            "id": "11442-12389-2502272105-2502280015--31722",
+                            "origin": {
+                                "flightPlaceId": "EWR",
+                                "displayCode": "EWR",
+                                "parent": {
+                                    "flightPlaceId": "NYCA",
+                                    "displayCode": "NYC",
+                                    "name": "New York",
+                                    "type": "City"
+                                },
+                                "name": "New York Newark",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "destination": {
+                                "flightPlaceId": "IAH",
+                                "displayCode": "IAH",
+                                "parent": {
+                                    "flightPlaceId": "HOUA",
+                                    "displayCode": "HOU",
+                                    "name": "Houston",
+                                    "type": "City"
+                                },
+                                "name": "Houston George Bush Intercntl.",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "departure": "2025-02-27T21:05:00",
+                            "arrival": "2025-02-28T00:15:00",
+                            "durationInMinutes": 250,
+                            "flightNumber": "2425",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        },
+                        {
+                            "id": "12389-13993-2502280734-2502281005--31722",
+                            "origin": {
+                                "flightPlaceId": "IAH",
+                                "displayCode": "IAH",
+                                "parent": {
+                                    "flightPlaceId": "HOUA",
+                                    "displayCode": "HOU",
+                                    "name": "Houston",
+                                    "type": "City"
+                                },
+                                "name": "Houston George Bush Intercntl.",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "destination": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "departure": "2025-02-28T07:34:00",
+                            "arrival": "2025-02-28T10:05:00",
+                            "durationInMinutes": 151,
+                            "flightNumber": "1024",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
+                }
+            ],
+            "isSelfTransfer": false,
+            "isProtectedSelfTransfer": false,
+            "farePolicy": {
+                "isChangeAllowed": false,
+                "isPartiallyChangeable": false,
+                "isCancellationAllowed": false,
+                "isPartiallyRefundable": false
+            },
+            "fareAttributes": [],
+            "isMashUp": false,
+            "hasFlexibleOptions": false,
+            "score": 0.649933
+        }
+    ],
+    "messages": [],
+    "filterStats": {
+        "duration": {
+            "min": 1146,
+            "max": 1385,
+            "multiCityMin": 1768,
+            "multiCityMax": 2685
+        },
+        "airports": [
+            {
+                "city": "Mexico City",
+                "airports": [
+                    {
+                        "id": "MEX",
+                        "entityId": "95673321",
+                        "name": "Mexico City Juarez International"
+                    }
+                ]
+            },
+            {
+                "city": "Montego Bay",
+                "airports": [
+                    {
+                        "id": "MBJ",
+                        "entityId": "99539667",
+                        "name": "Montego Bay"
+                    }
+                ]
+            }
+        ],
+        "stopPrices": {
+            "direct": {
+                "isPresent": false
+            },
+            "one": {
+                "isPresent": true,
+                "formattedPrice": "$2,504"
+            },
+            "twoOrMore": {
+                "isPresent": true,
+                "formattedPrice": "$2,213"
+            }
+        }
+    },
+    "flightsSessionId": "6b6c3084-f047-47f5-b7a2-6f0d1ab8315c",
+    "destinationImageUrl": "https:\/\/content.skyscnr.com\/m\/3719e8f4a5daf43d\/original\/Flights-Placeholder.jpg",
+    "sessionId": "6b6c3084-f047-47f5-b7a2-6f0d1ab8315c"
+}

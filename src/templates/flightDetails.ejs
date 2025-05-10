@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Flight Booking Confirmation</title>
+</head>
+<body>
+  <h1>Dear <%= userInfo.first_name %> <%= userInfo.last_name %>,</h1>
+  <p>Thank you for booking your flight with us. Here are your flight details:</p>
+  <h2>Flight Information</h2>
+  <p><strong>Airline:</strong> <%= flightInfo.airlineName %></p>
+  <p><strong>Flight Number:</strong> <%= flightInfo.flightInfo.flightNumber %></p>
+  <p><strong>Departure:</strong> <%= flightInfo.departure.city %> at <%= flightInfo.departure.time %></p>
+  <p><strong>Arrival:</strong> <%= flightInfo.arrival.city %> at <%= flightInfo.arrival.time %></p>
+  <h3>Fare Summary</h3>
+  <p><strong>Base Fare:</strong> <%= flightInfo.fareSummary.baseFare %></p>
+  <p><strong>Taxes and Fees:</strong> <%= flightInfo.fareSummary.taxesAndFees %></p>
+  <p><strong>Total Fare:</strong> <%= flightInfo.fareSummary.total %></p>
+  <h3>Additional Notes</h3>
+  <ul>
+    <% flightInfo.notes.forEach(note => { %>
+      <li><%= note %></li>
+    <% }); %>
+  </ul>
+  <p>We wish you a pleasant journey!</p>
+</body>
+</html>

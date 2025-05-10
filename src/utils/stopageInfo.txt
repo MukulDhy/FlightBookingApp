@@ -1,0 +1,143 @@
+"segments": [
+                        {
+                            "id": "13993-12389-2502071740-2502071958--31722",
+                            "origin": {
+                                "flightPlaceId": "MEX",
+                                "displayCode": "MEX",
+                                "parent": {
+                                    "flightPlaceId": "MEXA",
+                                    "displayCode": "MEX",
+                                    "name": "Mexico City",
+                                    "type": "City"
+                                },
+                                "name": "Mexico City Juarez International",
+                                "type": "Airport",
+                                "country": "Mexico"
+                            },
+                            "destination": {
+                                "flightPlaceId": "IAH",
+                                "displayCode": "IAH",
+                                "parent": {
+                                    "flightPlaceId": "HOUA",
+                                    "displayCode": "HOU",
+                                    "name": "Houston",
+                                    "type": "City"
+                                },
+                                "name": "Houston George Bush Intercntl.",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "departure": "2025-02-07T17:40:00",
+                            "arrival": "2025-02-07T19:58:00",
+                            "durationInMinutes": 138,
+                            "flightNumber": "1025",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        },
+                        {
+                            "id": "12389-15062-2502072136-2502080015--31722",
+                            "origin": {
+                                "flightPlaceId": "IAH",
+                                "displayCode": "IAH",
+                                "parent": {
+                                    "flightPlaceId": "HOUA",
+                                    "displayCode": "HOU",
+                                    "name": "Houston",
+                                    "type": "City"
+                                },
+                                "name": "Houston George Bush Intercntl.",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "destination": {
+                                "flightPlaceId": "ORD",
+                                "displayCode": "ORD",
+                                "parent": {
+                                    "flightPlaceId": "CHIA",
+                                    "displayCode": "CHI",
+                                    "name": "Chicago",
+                                    "type": "City"
+                                },
+                                "name": "Chicago O'Hare International",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "departure": "2025-02-07T21:36:00",
+                            "arrival": "2025-02-08T00:15:00",
+                            "durationInMinutes": 159,
+                            "flightNumber": "1858",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        },
+                        {
+                            "id": "15062-13902-2502080841-2502081346--31722",
+                            "origin": {
+                                "flightPlaceId": "ORD",
+                                "displayCode": "ORD",
+                                "parent": {
+                                    "flightPlaceId": "CHIA",
+                                    "displayCode": "CHI",
+                                    "name": "Chicago",
+                                    "type": "City"
+                                },
+                                "name": "Chicago O'Hare International",
+                                "type": "Airport",
+                                "country": "United States"
+                            },
+                            "destination": {
+                                "flightPlaceId": "MBJ",
+                                "displayCode": "MBJ",
+                                "parent": {
+                                    "flightPlaceId": "MBJA",
+                                    "displayCode": "MBJ",
+                                    "name": "Montego Bay",
+                                    "type": "City"
+                                },
+                                "name": "Montego Bay",
+                                "type": "Airport",
+                                "country": "Jamaica"
+                            },
+                            "departure": "2025-02-08T08:41:00",
+                            "arrival": "2025-02-08T13:46:00",
+                            "durationInMinutes": 245,
+                            "flightNumber": "1146",
+                            "marketingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            },
+                            "operatingCarrier": {
+                                "id": -31722,
+                                "name": "United",
+                                "alternateId": "UA",
+                                "allianceId": 0,
+                                "displayCode": ""
+                            }
+                        }
+                    ]
